@@ -13,6 +13,7 @@ from pelican import main as pelican_main
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 
+OPEN_BROWSER_ON_SERVE = True
 SETTINGS_FILE_BASE = 'pelicanconf.py'
 SETTINGS = {}
 SETTINGS.update(DEFAULT_CONFIG)
@@ -24,11 +25,6 @@ CONFIG = {
     'settings_publish': 'publishconf.py',
     # Output path. Can be absolute or relative to tasks.py. Default: 'output'
     'deploy_path': SETTINGS['OUTPUT_PATH'],
-    # Remote server configuration
-    'ssh_user': 'root',
-    'ssh_host': 'localhost',
-    'ssh_port': '22',
-    'ssh_path': '/var/www',
     # Github Pages configuration
     'github_pages_branch': 'main',
     'commit_message': "'Publish site on {}'".format(datetime.date.today().isoformat()),
@@ -70,6 +66,11 @@ def serve(c):
         CONFIG['deploy_path'],
         (CONFIG['host'], CONFIG['port']),
         ComplexHTTPRequestHandler)
+
+    if OPEN_BROWSER_ON_SERVE:
+        # Open site in default browser
+        import webbrowser
+        webbrowser.open("http://{host}:{port}".format(**CONFIG))
 
     sys.stderr.write('Serving at {host}:{port} ...\n'.format(**CONFIG))
     server.serve_forever()
@@ -114,6 +115,12 @@ def livereload(c):
 
     for glob in watched_globs:
         server.watch(glob, cached_build)
+
+    if OPEN_BROWSER_ON_SERVE:
+        # Open site in default browser
+        import webbrowser
+        webbrowser.open("http://{host}:{port}".format(**CONFIG))
+
     server.serve(host=CONFIG['host'], port=CONFIG['port'], root=CONFIG['deploy_path'])
 
 
