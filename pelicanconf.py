@@ -2,10 +2,11 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Valmir'
-SITENAME = 'Blog de trading'
+SITENAME = 'Operando no escuro'
 SITEURL = ''
 
 PATH = 'content'
+OUTPUT_PATH = 'docs'
 
 TIMEZONE = 'America/Sao_Paulo'
 
@@ -19,14 +20,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('mtcli', 'https://pypi.org/project/mtcli/'),
+         ('MetaTrader 5', 'https://www.metatrader5.com/pt'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Telegram', '#'),
+          ('GitHub', '#'),)
 
 DEFAULT_PAGINATION = 10
 
