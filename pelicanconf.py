@@ -20,14 +20,20 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+     ('mtcli', 'https://pypi.org/project/mtcli/'),
+     ('kt-line', 'https://pypi.org/project/kt-line/'),
+     ('kt-tr', 'https://pypi.org/project/kt-tr/'),
+     ('kt-pullback', 'https://pypi.org/project/kt-pullback/'),
+     ('MetaTrader 5', 'https://www.metatrader5.com/pt'),
+     ('Manual de price action', 'https://www.priceaction.com.br/conteudo-livre/manual-de-price-action/'),
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('Telegram', 'https://t.me/operandonoescuro'),
+    ('Twitter', 'https://twitter.com/vfranca3'),
+)
 
 DEFAULT_PAGINATION = 10
 
