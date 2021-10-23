@@ -2,8 +2,8 @@ Title: Principais atalhos disponíveis na pasta de trabalho:
 Date: 2021-10-17
 Category: mtcli
 Tags: mtcli, atalhos do mtcli
+Status: draft
 
-  
 | Atalho | Comando | Descrição | Indicado para |
 | ---- | ---- | ----- | --- |
 | dd1 | mt bars <ticker> -p daily | gráfico cheio com todas as informações do candle do diário | ler força de barras e outras leituras |

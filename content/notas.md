@@ -1,29 +1,15 @@
-Title: Notas
+Title: Mercado 15/10
 Date: 2021-10-17
-Tags: B3SA3, BBDC4, BBSE3, IFNC, análise
-
-## B3SA3
-
-microcanal de baixa no mensal
-no ssemanal está fazendo um fundo
-no diário está formando um canal de alta
-
-## BBDC4
-
-no mensal está no terço inferior de uma lateralidade (28.24/19.07) 
-no semanal formou uma barra de sinal de uma H2. A superação da máxima teremos um fundo mais alto
-O diário est´pa formando um canal de alta
-
-## BBSE3
-
-No mensal fez um fundo em um canal de baixa
-No semanal faz um canal de alta
-No diário faz um microcanal de alta
+Tags: dólar mini, WDO
+Category: Notas
 
 
-## IFNC
 
-No mensal está em um microcanal de baixa testando o fundo de uma lateralidade (113129/10231)
-No semanal está em uma possível bandeira final com um H2 no fundo
-No diário está em um canal de alta
 
+a barra mensal do dolar mini ja apresenta sombra acima indicando perca de momentum dos compradores e a o preço já está abaixo do seu ponto médio
+O semanal porém ainda resenta um tc de alta e a perca da mínima deverá encontrar compradores
+
+Sazonalmente é uma época de baixa para o ccâmbio até Dezembrp
+
+Paralelamente o ibovespa mini já fazum fundo duplo no semanl que ainda está em tendência de baixa porém na próxima semana pode testar e romper sua LTB em 116040
+Em junho tivemos um topo no ibovespa mini e um fundo o dólar mini

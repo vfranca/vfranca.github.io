@@ -1,6 +1,7 @@
 Title: Fundos imobiliários
 Date: 2021-10-17
 Tags: FII
+Status: draft
 
 
 FII | RENDA MENSAL | DY | P/VP |
