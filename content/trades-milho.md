@@ -1,6 +1,7 @@
 Title: Trades do milho
 Date: 2021-10-17
 Tags: milho, setup, CCM
+Status: draft
 
 | Trade | Probabilidade | Risco/Retorno | Ocorrência | Risco financeiro | Duração | Aplicação |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |

@@ -1,6 +1,8 @@
 Title: Vieses cognitivos
 Date: 2021-10-17
 Tags: viéses
+Status: draft
+
 
 x | Assumir um risco desconhecido em troca de uma recompensa financeira desprezando gerenciamento de risco | x |
 Viés da confirmação | | Eu acredito que o mercado é de alta e ignoro os sinais de baixa |
