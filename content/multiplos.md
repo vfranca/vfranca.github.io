@@ -1,6 +1,7 @@
 Title: Múltiplos
 Date: 2021-10-17
 Tags: ações, múltiplos
+Status: draft
 
 
 | Indicador | Descriçao | Viés | Categoria |
