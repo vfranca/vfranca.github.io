@@ -1,6 +1,7 @@
 Title: Ibovespa mini Pré-mercado 19/10
 Date: 2021-10-19
 Category: Pré-mercado
+Status: hidden
 
 
 O diário está em um canal estreito de alta

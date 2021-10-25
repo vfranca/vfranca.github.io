@@ -2,6 +2,7 @@ Title: Ibovespa mini 25/10
 Date: 2021-10-25
 Category: Pré-mercado
 Tags: ibovespa mini
+Status: hidden
 
 * O diário apresenta 4 barras de baixa portanto uma forte baixa. Os compradores terão que fazer uma forte barra de rompimento de alta ou um fundo duplo para retomar o domínio.
 * No 60min está em uma lateralidade entre 108940 e 103660.
