@@ -1,0 +1,22 @@
+Title: Recap Ibovespa mini 26/10
+Date: 2021-10-26
+Category: Recap
+Tags: índice, Ibovespa mini, WIN, Brasil
+
+Operações no m15 com risco = 400 pts.  
+
+## Venda acima da b4
+* Venda de microcanal de baixa.
+* Venda acima de barra.
+* Scalp 1/1 de r/r.
+
+## Venda acima da b8
+* Venda de canal estreito de baixa.
+* Venda acima de barra.
+* Scalp 1/1 r/r.
+
+
+## Venda acima da b13
+* Venda de canal estreito de baixa.
+* Venda acima de barra.
+* Scalp 1/1 r/r.
