@@ -3,12 +3,12 @@ Date: 2021-11-05
 Category: Recap
 Tags: Ibovespa mini, recap
 
-Operando o m15 com risco = 400 pts.
+Operando o m15 com risco = 400 pts.  
   
-  ## Venda abaixo da b1
+## Venda abaixo da b1
   * Venda de barra de sinal no terço superior da lateralidade 107635/105560
   
-  ## Venda abaixo da b11
+## Venda abaixo da b11
   * Venda da falha do falso rompimento da lateralidade 107635/107560
   
 ## Venda acima da b14
