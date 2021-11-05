@@ -15,7 +15,6 @@ Operando o m15 com risco = 400 pts.
 * Venda de tc de baixa
 * Venda acima de barra
 
-
 ## Venda acima da b20
 * Venda de tc de baixa
 * Venda acima de barra
