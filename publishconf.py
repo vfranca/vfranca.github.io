@@ -20,5 +20,5 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = "operando-no-escuro"
+DISQUS_SITENAME = "Operando no Escuro"
 #GOOGLE_ANALYTICS = ""
