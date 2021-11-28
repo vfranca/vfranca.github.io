@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Operando no Escuro - mtcli</title><link href="/" rel="alternate"></link><link href="/feeds/mtcli.atom" rel="self"></link><id>/</id><updated>2021-10-17T00:00:00-03:00</updated><entry><title>Marcadores</title><link href="/marcadores.html" rel="alternate"></link><published>2021-10-17T00:00:00-03:00</published><updated>2021-10-17T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2021-10-17:/marcadores.html</id><summary type="html">&lt;p&gt;Os marcadores são anotações que são deixads no terminal exemplo ltb 116040 atribui ao marcador ltb o valo 116040 e digitando apensa ltb serrá exibido o valor gardadeo de 116040
+Esse recurso é muito útil para marcar os preços de estudos Os grafistas videntes tem os objetos para colocar em …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Os marcadores são anotações que são deixads no terminal exemplo ltb 116040 atribui ao marcador ltb o valo 116040 e digitando apensa ltb serrá exibido o valor gardadeo de 116040
+Esse recurso é muito útil para marcar os preços de estudos Os grafistas videntes tem os objetos para colocar em seus gráficos que são linhas marcando regiões e preços importantes
+Os marcadores são um recuroso que se equipara para o deficiente visual 
+Os marcadores disponíveis são
+lta
+lca
+ltb
+lcb
+pb1
+pb2
+pb3
+tp
+fd
+ts
+ti
+n1, .. n5&lt;/p&gt;
+&lt;p&gt;Os marcadores não está ainda embutido no mtcli e estão disponíveis apenas na pasta mtcli que pode ser baixada no link abaixo&lt;/p&gt;</content><category term="mtcli"></category><category term="mtcli"></category><category term="marcadores do mtcli"></category></entry></feed>
