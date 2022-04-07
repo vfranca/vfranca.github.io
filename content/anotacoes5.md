@@ -1,6 +1,6 @@
-Title: Nota 28/10
+Title: Anotações 5
 Date: 2021-10-28
-Category: Nota
+Category: Anotações
 
 
 * O EWZ acionou uma bandeira em forma de topo duplo.

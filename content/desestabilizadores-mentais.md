@@ -1,6 +1,9 @@
 Title: Desestabilizadores mentais
 Date: 2022-01-12
 Category: Trading
+Status: draft
+
+
 gatilhos de desestabilidade mental
 * deveolver um lucro grande
 * tomar stop que poderia ser evitado

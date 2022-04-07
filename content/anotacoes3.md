@@ -1,7 +1,7 @@
-Title: Mercado 15/10
+Title: Anotações 3
 Date: 2021-10-17
 Tags: dólar mini, WDO
-Category: Notas
+Category: Anotações
 
 
 

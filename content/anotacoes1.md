@@ -1,7 +1,7 @@
-Title: Notas
+Title: Anotações 1
 Date: 2021-10-17
 Tags: B3SA3, BBDC4, BBSE3, IFNC, análise
-Category: Notas
+Category: Anotações
 
 ## B3SA3
 
