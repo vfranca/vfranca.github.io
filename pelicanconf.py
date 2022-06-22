@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Valmir'
-SITENAME = 'Operando no Escuro'
+SITENAME = 'mtcli MetaTrader 5 para cegos'
 SITEURL = ''
 
 PATH = 'content'
