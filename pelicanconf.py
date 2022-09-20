@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Valmir'
-SITENAME = 'mtcli MetaTrader 5 para cegos'
+SITENAME = 'MetaTrader 5 para cegos'
 SITEURL = ''
 
 PATH = 'content'
