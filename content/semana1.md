@@ -1,7 +1,6 @@
-Title: Relatório semanal Mini dólar
+Title: Revisão da semana 1
 Date: 2022-09-17
-Category: Análise
-Status: draft
+Category: Trading
 
 W1
 

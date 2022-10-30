@@ -1,5 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MetaTrader 5 para cegos</title><link href="/" rel="alternate"></link><link href="/feeds.atom" rel="self"></link><id>/</id><updated>2022-09-19T00:00:00-03:00</updated><entry><title>Pré-mercado mini dólar</title><link href="/pre-mercado-mini-dolar.html" rel="alternate"></link><published>2022-09-19T00:00:00-03:00</published><updated>2022-09-19T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-19:/pre-mercado-mini-dolar.html</id><summary type="html">&lt;p&gt;H1&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MetaTrader 5 para cegos</title><link href="/" rel="alternate"></link><link href="/feeds.atom" rel="self"></link><id>/</id><updated>2022-10-27T00:00:00-03:00</updated><entry><title>Revisão do dia 27/10</title><link href="/revisao-do-dia-2710.html" rel="alternate"></link><published>2022-10-27T00:00:00-03:00</published><updated>2022-10-27T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-27:/revisao-do-dia-2710.html</id><summary type="html">&lt;p&gt;Erro: 
+* saí em um dia depois do loss e lateral. Dias depois de um dia lateral pela manhã constuma ser direcional 
+Solução: 
+* depois de um dia difícil e lateral procurar tendencia no dia seguinte para oque é provável que o dia seja bom&lt;/p&gt;
+&lt;p&gt;Erro: 
+* Com medo fiquei analisando o miniíndice …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Erro: 
+* saí em um dia depois do loss e lateral. Dias depois de um dia lateral pela manhã constuma ser direcional 
+Solução: 
+* depois de um dia difícil e lateral procurar tendencia no dia seguinte para oque é provável que o dia seja bom&lt;/p&gt;
+&lt;p&gt;Erro: 
+* Com medo fiquei analisando o miniíndice e o minidólar e vi oportunidades nos dois porém perdí de o timing certo nos dois. É preci
+Solução: 
+* não tentar operar o miníndice e o minidólar ao mesmo tempo pos não dá tempo de posicionar as órdens&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Revisão do dia 26/10</title><link href="/revisao-do-dia-2610.html" rel="alternate"></link><published>2022-10-26T00:00:00-03:00</published><updated>2022-10-26T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-26:/revisao-do-dia-2610.html</id><summary type="html">&lt;p&gt;Erro:
+* me antecipei às 7 primeiras barras ao operar os padrões de abertura
+Solução: 
+* esperar o padrão de abertura ou nas 7 primeiras barras para opening reversal ou nas 18 
+na 1a para trend from the open&lt;/p&gt;
+&lt;p&gt;Erro: 
+* apostei em uma queda muito no início especulei apostei só dessa vez …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Erro:
+* me antecipei às 7 primeiras barras ao operar os padrões de abertura
+Solução: 
+* esperar o padrão de abertura ou nas 7 primeiras barras para opening reversal ou nas 18 
+na 1a para trend from the open&lt;/p&gt;
+&lt;p&gt;Erro: 
+* apostei em uma queda muito no início especulei apostei só dessa vez
+Solução: 
+* Fazer mais testes de padrões de abertura no histórico&lt;/p&gt;
+&lt;p&gt;Erro: 
+* operei além do limite de loss dodia
+Solução: &lt;/p&gt;
+&lt;p&gt;Erro: 
+* tentei recuperar e aumentei o prejuízo&lt;/p&gt;
+&lt;p&gt;Erro:&lt;/p&gt;
+&lt;p&gt;Erro:
+* não travei a margem antes do pregão
+* perdi o controle
+Solução:
+* travar a margem para 3 operações de 8 pts durante pelo menos 2 mês
+ou 6 para evitar dia de fúria novo&lt;/p&gt;
+&lt;p&gt;Erro:
+* não operei o padrão lateral como lateral mas quis fazer trades de rompimento nos extremos
+Solução: 
+* fazer mais testes de lateral no histórico&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Recap 24/10</title><link href="/recap-2410.html" rel="alternate"></link><published>2022-10-24T00:00:00-03:00</published><updated>2022-10-24T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-24:/recap-2410.html</id><summary type="html">&lt;h2&gt;Mini dólar&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Trend from the open&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de alta e seguiu um canal de alta&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Mini índice&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;trend from the open&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;abriu em gap de baixa e seguiu em um microcanal por 7 barras, fez uma bandeira de topo duplo e soutou uma perna 2
+deu entrada nna …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Mini dólar&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Trend from the open&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de alta e seguiu um canal de alta&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Mini índice&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;trend from the open&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;abriu em gap de baixa e seguiu em um microcanal por 7 barras, fez uma bandeira de topo duplo e soutou uma perna 2
+deu entrada nna formação da bandeira de topo duplo com alvo maior que 3xr&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Revisão da semana 2</title><link href="/revisao-da-semana-2.html" rel="alternate"></link><published>2022-09-24T00:00:00-03:00</published><updated>2022-09-24T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-24:/revisao-da-semana-2.html</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;O semanal fechou uma barra interna de venda com grande sombra abaixo, portanto os vendedores perderam força com uma grande sombra abaixo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;É a quarta barra lateral  em um outside insid outside inside, portanto um BOM com 50% de prob de romper acima ou abaixo e 50% de prob de …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;O semanal fechou uma barra interna de venda com grande sombra abaixo, portanto os vendedores perderam força com uma grande sombra abaixo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;É a quarta barra lateral  em um outside insid outside inside, portanto um BOM com 50% de prob de romper acima ou abaixo e 50% de prob de o 1o rompimento falhar.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os vendedores querem vender acima de 5220 e se romper a TR espera um MM em 4695 com base na altura da TR 5329/5012.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os compradores querem comprar abaixo de 5117 e se romper a TR esperam um MM em 5642 com base na altura da TR 5329/5012.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Pré-mercado 22/09</title><link href="/pre-mercado-2209.html" rel="alternate"></link><published>2022-09-22T00:00:00-03:00</published><updated>2022-09-22T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-22:/pre-mercado-2209.html</id><summary type="html">&lt;p&gt;D1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;a barra de ontem foi uma barra de alta com sombra abaixo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os vendedores não conseguiram um fechamento na mínima monstrando assim pernda de força&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os compradores querem uma superação da m´zima de ontem e um alvo no último topo 5329&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os vendedores estão vendo uma wedge de …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;D1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;a barra de ontem foi uma barra de alta com sombra abaixo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os vendedores não conseguiram um fechamento na mínima monstrando assim pernda de força&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os compradores querem uma superação da m´zima de ontem e um alvo no último topo 5329&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os vendedores estão vendo uma wedge de topo e um alvo na última mínima magoritária 5012&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os operadores estão  vendo um triexp com lcb 5034 e lca 5362&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os operadores estão vendo uma tr 5329/5012 com compra abaixo de 5117 e venda acima de 5220&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Os operadores também estão vendo uma TR entre 5329 e 5103 com compra abaixo de 5178 e venda acima de 5153&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Pré-mercado 19/09</title><link href="/pre-mercado-1909.html" rel="alternate"></link><published>2022-09-19T00:00:00-03:00</published><updated>2022-09-19T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-19:/pre-mercado-1909.html</id><summary type="html">&lt;p&gt;H1&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Os vendedores conseguiram uma 2a perna de pullback além de 2/3 de correção&lt;/p&gt;
@@ -37,7 +164,48 @@
 &lt;li&gt;
 &lt;p&gt;Os compradores estão vendo uma possível formação de wedge e portanto vão comprar a falha de rompimento da LCB 5261 com alvo no início do canal de baixa 5329&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Análise"></category></entry><entry><title>Recap WDO 02/05 entradas</title><link href="/recap-wdo-0205-entradas.html" rel="alternate"></link><published>2022-05-02T00:00:00-03:00</published><updated>2022-05-02T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-05-02:/recap-wdo-0205-entradas.html</id><content type="html">&lt;table&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Revisão da semana 1</title><link href="/revisao-da-semana-1.html" rel="alternate"></link><published>2022-09-17T00:00:00-03:00</published><updated>2022-09-17T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-17:/revisao-da-semana-1.html</id><summary type="html">&lt;p&gt;W1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A barra da semana foi uma barra compradora e representa uma H3 implícita&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;É uma barra de sinal de uma wedge bull flag&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os compradores querem uma barra de continuidade esta semana com alvo primeiro em 5527 último topo&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;D1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Os compradores estão vendo um TC de alta e …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;W1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A barra da semana foi uma barra compradora e representa uma H3 implícita&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;É uma barra de sinal de uma wedge bull flag&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os compradores querem uma barra de continuidade esta semana com alvo primeiro em 5527 último topo&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;D1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Os compradores estão vendo um TC de alta e devem comprar a mínima de Sexta 5267&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os compradores conseguiram um MC de alta de 4 barras até o topo da bandeira de alta&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os vendedores conseguiram uma falha de rompimento fechando abaixo de 5296 último topo. Isso não foi uma boa barra de FT para os compradores que compraram umabandeira H2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Os vendedores precisam confirmar uma falha de rompimento com barras fechando na mínima empurrando o preço novamente para dentro da lateralidade&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Recap 02/05</title><link href="/recap-0205.html" rel="alternate"></link><published>2022-05-02T00:00:00-03:00</published><updated>2022-05-02T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-05-02:/recap-0205.html</id><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;EB&lt;/th&gt;
@@ -70,7 +238,7 @@
 &lt;td&gt;5057&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="Recap"></category></entry><entry><title>Recap WDO 27/04 entradas</title><link href="/recap-wdo-2704-entradas.html" rel="alternate"></link><published>2022-04-27T00:00:00-03:00</published><updated>2022-04-27T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-04-27:/recap-wdo-2704-entradas.html</id><summary type="html">&lt;ul&gt;
+&lt;/table&gt;</content><category term="Trading"></category></entry><entry><title>Recap WDO 27/04 entradas</title><link href="/recap-wdo-2704-entradas.html" rel="alternate"></link><published>2022-04-27T00:00:00-03:00</published><updated>2022-04-27T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-04-27:/recap-wdo-2704-entradas.html</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;b5 v ol acima da b4 bc de alta wt &lt;/li&gt;
 &lt;li&gt;b8 c ol abaixo da b7 tc de alta AIL&lt;/li&gt;
 &lt;li&gt;b8 c compra de fechamento bc de alta; 50p AIL&lt;/li&gt;
