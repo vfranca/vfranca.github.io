@@ -1,6 +1,6 @@
 Title: Recap 03/10
 Date: 2022-10-03
-Category: Trading
+Category: Recap
 
 ## Mini dólar - Trend from the open
 

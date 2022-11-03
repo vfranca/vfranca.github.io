@@ -1,6 +1,6 @@
 Title: Recap 05/10
 Date: 2022-10-05
-Category: Trading
+Category: Recap
 
 ## Mini dólar - Opening reversal
 
