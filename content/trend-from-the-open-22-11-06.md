@@ -1,8 +1,8 @@
-Title: Recap 
+Title: Sinais de um trend from the open
 Date: 2022-11-06
 Category: Trading
 
-Em 20% das vezes termeos um trend from the open ou uma tendência a partir da abertura em que a b1 se torna a máxima ou a mínima do dia.
+Em 20% das vezes temos um trend from the open ou uma tendência a partir da abertura em que a b1 se torna a máxima ou a mínima do dia.
 
 Alguns sinais que podem reforçar essa hipótese são:
 
