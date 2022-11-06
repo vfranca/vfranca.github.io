@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MetaTrader 5 para cegos - Trading</title><link href="/" rel="alternate"></link><link href="/feeds/trading.atom" rel="self"></link><id>/</id><updated>2022-11-05T00:00:00-03:00</updated><entry><title>Gerenciamento da opening reversal</title><link href="/gerenciamento-da-opening-reversal.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/gerenciamento-da-opening-reversal.html</id><content type="html">&lt;h2&gt;alvos para opening reversal&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MetaTrader 5 para cegos - Trading</title><link href="/" rel="alternate"></link><link href="/feeds/trading.atom" rel="self"></link><id>/</id><updated>2022-11-06T00:00:00-03:00</updated><entry><title>Evolução de padrões no opening reversal</title><link href="/evolucao-de-padroes-no-opening-reversal.html" rel="alternate"></link><published>2022-11-06T00:00:00-03:00</published><updated>2022-11-06T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-06:/evolucao-de-padroes-no-opening-reversal.html</id><content type="html">&lt;p&gt;Em uma lateralidade no 18B e contexto bidirecional um fundo duplo bem marcado por uma SB forte pode evoluiir para uma wedge de topo, bem como um topo duplo pode evoluir para uma wedge de fundo
+exemplo mini dólar de 25/11/21&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Recap</title><link href="/recap.html" rel="alternate"></link><published>2022-11-06T00:00:00-03:00</published><updated>2022-11-06T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-06:/recap.html</id><summary type="html">&lt;p&gt;Em 20% das vezes termeos um trend from the open ou uma tendência a partir da abertura em que a b1 se torna a máxima ou a mínima do dia.&lt;/p&gt;
+&lt;p&gt;Alguns sinais que podem reforçar essa hipótese são:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Uma importante barra de rompimento na b1 antecedido de um gap de …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Em 20% das vezes termeos um trend from the open ou uma tendência a partir da abertura em que a b1 se torna a máxima ou a mínima do dia.&lt;/p&gt;
+&lt;p&gt;Alguns sinais que podem reforçar essa hipótese são:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Uma importante barra de rompimento na b1 antecedido de um gap de na direção da barra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Uma barra de rompimento na b1 contra um gap de exaustão.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;um microcanal na 7b apos um gap de medida (mini dólar 23/11/21).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Um TC contra um gap de exaustão (mini dólar 26/11/21)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Gerenciamento da opening reversal</title><link href="/gerenciamento-da-opening-reversal.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/gerenciamento-da-opening-reversal.html</id><content type="html">&lt;h2&gt;alvos para opening reversal&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;3x barras de 5min (normalmente 1b = 8 pts).&lt;/li&gt;
 &lt;li&gt;MM com base na altura do TR do 18b.&lt;/li&gt;
