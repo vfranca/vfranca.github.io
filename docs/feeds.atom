@@ -1,5 +1,221 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MetaTrader 5 para cegos</title><link href="/" rel="alternate"></link><link href="/feeds.atom" rel="self"></link><id>/</id><updated>2022-10-27T00:00:00-03:00</updated><entry><title>Revisão do dia 27/10</title><link href="/revisao-do-dia-2710.html" rel="alternate"></link><published>2022-10-27T00:00:00-03:00</published><updated>2022-10-27T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-27:/revisao-do-dia-2710.html</id><summary type="html">&lt;p&gt;Erro: 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MetaTrader 5 para cegos</title><link href="/" rel="alternate"></link><link href="/feeds.atom" rel="self"></link><id>/</id><updated>2022-11-05T00:00:00-03:00</updated><entry><title>Gerenciamento da opening reversal</title><link href="/gerenciamento-da-opening-reversal.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/gerenciamento-da-opening-reversal.html</id><content type="html">&lt;h2&gt;alvos para opening reversal&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;3x barras de 5min (normalmente 1b = 8 pts).&lt;/li&gt;
+&lt;li&gt;MM com base na altura do TR do 18b.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;stops para opening reversal&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Na SB.&lt;/li&gt;
+&lt;li&gt;Na 18b.&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Trading"></category><category term="opening reversal"></category><category term="gerenciamento de operações"></category></entry><entry><title>Recap 02/11/22</title><link href="/recap-021122.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-021122.html</id><content type="html">&lt;h2&gt;EUR/USD - trend from the open&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;nas 18b abriu com um canal de baixa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;US30-DEC22 - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;nas 18b abriu com uma cunha de fundo.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 03/03/22</title><link href="/recap-030322.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-030322.html</id><summary type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;eua horário normal ny abrindo 11h30.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em um pequeno gap de alta depois de um dia de queda.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fez uma wedge de topo no range 12b.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a b10 foi uma sb de venda e a b11 foi a eb com alvo no MM da wedge …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;eua horário normal ny abrindo 11h30.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em um pequeno gap de alta depois de um dia de queda.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fez uma wedge de topo no range 12b.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a b10 foi uma sb de venda e a b11 foi a eb com alvo no MM da wedge.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 04/11/22</title><link href="/recap-041122.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-041122.html</id><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de baixa que foi preenchido nas primeiras barras&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a 18b foi um big up big down.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;O resto do dia manteve-se na TR da 18b.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 16/11/21</title><link href="/recap-161121.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-161121.html</id><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;o dia abriu com um gap de baixa&lt;/li&gt;
+&lt;li&gt;a 18b foi uma wedge de fundo com 4 puxadas&lt;/li&gt;
+&lt;li&gt;A b21 foi uma SB com EB na b22 que por suavez não teve bom FT&lt;/li&gt;
+&lt;li&gt;a b23 foi uma segunda SB com EB na b24.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 17/11/21</title><link href="/recap-171121.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-171121.html</id><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;o dia abriu em um gap de baixa&lt;/li&gt;
+&lt;li&gt;o 18B foi uma wedge de fundo com SB na b13.&lt;/li&gt;
+&lt;li&gt;a b14 foi a EB para uma posição com stop loss abaixo da b13 com alvo em 5516. O alvo foi atingido na b24.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 18/10/22</title><link href="/recap-181022.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-181022.html</id><content type="html"></content><category term="Recap"></category></entry><entry><title>Recap 18/11/21</title><link href="/recap-181121.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-181121.html</id><summary type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;O dia abriu em um gap de baixa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;o range 18B foi uma wedge de fundo com SB fraca na b13.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A b13 foi uma SB fraca mas a B14 foi uma bo FT e uma segunda SB mais forte.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a entrada acima da b13 portanto …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;O dia abriu em um gap de baixa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;o range 18B foi uma wedge de fundo com SB fraca na b13.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A b13 foi uma SB fraca mas a B14 foi uma bo FT e uma segunda SB mais forte.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a entrada acima da b13 portanto na b14 com saída na b29.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 19/09/22</title><link href="/recap-190922.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-190922.html</id><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;a 18b foi uma wedge de topo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a b21 foi uma sb da wedge de topo seguida por uma tendencia de baixa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 19/11/21</title><link href="/recap-191121.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-191121.html</id><summary type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de alta&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para os compradores a 18b foi uma wedge de fundo com SB fraca na b20.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A wedge de fundo deu entrada acima da b20 com stop loss abaixo com um alvo de 3x risco. Posição estopada.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para os vendedores a 18b …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de alta&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para os compradores a 18b foi uma wedge de fundo com SB fraca na b20.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A wedge de fundo deu entrada acima da b20 com stop loss abaixo com um alvo de 3x risco. Posição estopada.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para os vendedores a 18b foi uma wedge de topo com SB forte na b17 com stop loss acima dela e entrada abaixo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A entrada na b18 abaixo da b17 deu um ganho de 3x risco na b31.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 20/10/22</title><link href="/recap-201022.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-201022.html</id><content type="html">&lt;h2&gt;Mini dólar - trend from the open&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;abriu em um gap de baixa depois uma lateralidade em forma de wedge e topo duplo nas primeiras 18 barras e depois seguiu a direção dogap&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 22/11/21</title><link href="/recap-221121.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-221121.html</id><summary type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em pequeno gap de baixa que foi logo preenchido nas primeiras barras&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para os vendedores a 18b foi uma wedge de topo com sb fraca na b17 e boa ft na b18.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A venda abaixo da b17 com stop loss acima e com alvo de …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em pequeno gap de baixa que foi logo preenchido nas primeiras barras&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para os vendedores a 18b foi uma wedge de topo com sb fraca na b17 e boa ft na b18.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A venda abaixo da b17 com stop loss acima e com alvo de 3 barras (5577) foi atingido na b23.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 28/10/22</title><link href="/recap-281022.html" rel="alternate"></link><published>2022-11-05T00:00:00-03:00</published><updated>2022-11-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-05:/recap-281022.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;abriu em gap de alta e evoluiu para uma lateralidade nas 18b.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;á tarde rompeu a tr para baixo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 03/11</title><link href="/recap-0311.html" rel="alternate"></link><published>2022-11-03T00:00:00-03:00</published><updated>2022-11-03T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-03:/recap-0311.html</id><summary type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de alta e evoluiu para um triângulo ascendente e a b15 foi uma SB de wedge de fundo que teve FT na b16.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Em seguida formou uma bandeira de wedge de topo durante a manhã.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A bandeira foi rompida e alcançou uma mínima …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de alta e evoluiu para um triângulo ascendente e a b15 foi uma SB de wedge de fundo que teve FT na b16.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Em seguida formou uma bandeira de wedge de topo durante a manhã.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A bandeira foi rompida e alcançou uma mínima do diário 5115.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;EUR/USD - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Abriu Nova Iorque com uma wedge de fundo com SB na b203&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mini índice - opening reversal&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de baixa seguido por uma wedge de fundo nas 18b&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A b18 foi uma SB com stop loss abaixo dela ou a b19 com stop abaixo da b18 e alvo na máxima da wedge&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 31/10/22</title><link href="/recap-311022.html" rel="alternate"></link><published>2022-10-31T00:00:00-03:00</published><updated>2022-10-31T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-31:/recap-311022.html</id><content type="html">&lt;h2&gt;mini dólar - openingreversal nas 18b&lt;/h2&gt;
+&lt;h2&gt;mini índice - opening reversal nas 18b&lt;/h2&gt;</content><category term="Trading"></category></entry><entry><title>Recap 27/10/22</title><link href="/recap-271022.html" rel="alternate"></link><published>2022-10-27T00:00:00-03:00</published><updated>2022-10-27T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-27:/recap-271022.html</id><summary type="html">&lt;h2&gt;mini dolar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de alta e e fez um topo duplo e rompeu para uma tencia e lateralidade que rompeu depois da 18b  para baixo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a tarde fez uma tr difícil um triangulo expandido.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;mini indice - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;abriu em gap de baixa e wedge de …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;mini dolar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de alta e e fez um topo duplo e rompeu para uma tencia e lateralidade que rompeu depois da 18b  para baixo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a tarde fez uma tr difícil um triangulo expandido.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;mini indice - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;abriu em gap de baixa e wedge de fundo nas 18 barras
+seguido por tendencia de alta.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Revisão do dia 27/10</title><link href="/revisao-do-dia-2710.html" rel="alternate"></link><published>2022-10-27T00:00:00-03:00</published><updated>2022-10-27T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-27:/revisao-do-dia-2710.html</id><summary type="html">&lt;p&gt;Erro: 
 * saí em um dia depois do loss e lateral. Dias depois de um dia lateral pela manhã constuma ser direcional 
 Solução: 
 * depois de um dia difícil e lateral procurar tendencia no dia seguinte para oque é provável que o dia seja bom&lt;/p&gt;
@@ -11,7 +227,32 @@ Solução:
 &lt;p&gt;Erro: 
 * Com medo fiquei analisando o miniíndice e o minidólar e vi oportunidades nos dois porém perdí de o timing certo nos dois. É preci
 Solução: 
-* não tentar operar o miníndice e o minidólar ao mesmo tempo pos não dá tempo de posicionar as órdens&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Revisão do dia 26/10</title><link href="/revisao-do-dia-2610.html" rel="alternate"></link><published>2022-10-26T00:00:00-03:00</published><updated>2022-10-26T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-26:/revisao-do-dia-2610.html</id><summary type="html">&lt;p&gt;Erro:
+* não tentar operar o miníndice e o minidólar ao mesmo tempo pos não dá tempo de posicionar as órdens&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Recap 26/10/22</title><link href="/recap-261022.html" rel="alternate"></link><published>2022-10-26T00:00:00-03:00</published><updated>2022-10-26T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-26:/recap-261022.html</id><summary type="html">&lt;h2&gt;mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de baixa e nas 7b fez um fundo duplo na direção de médidas e do fechamento
+para uma tendência que ficou laterall pela manhã.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;á tarde rompeu e continuou em tendência de alta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;mini índice - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;abriu em gap de alta e …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de baixa e nas 7b fez um fundo duplo na direção de médidas e do fechamento
+para uma tendência que ficou laterall pela manhã.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;á tarde rompeu e continuou em tendência de alta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;mini índice - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;abriu em gap de alta e nas 7b fez um topo duplo que continuou em uma tendencia de baixa&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Revisão do dia 26/10</title><link href="/revisao-do-dia-2610.html" rel="alternate"></link><published>2022-10-26T00:00:00-03:00</published><updated>2022-10-26T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-26:/revisao-do-dia-2610.html</id><summary type="html">&lt;p&gt;Erro:
 * me antecipei às 7 primeiras barras ao operar os padrões de abertura
 Solução: 
 * esperar o padrão de abertura ou nas 7 primeiras barras para opening reversal ou nas 18 
@@ -41,7 +282,11 @@ ou 6 para evitar dia de fúria novo&lt;/p&gt;
 &lt;p&gt;Erro:
 * não operei o padrão lateral como lateral mas quis fazer trades de rompimento nos extremos
 Solução: 
-* fazer mais testes de lateral no histórico&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Recap 24/10</title><link href="/recap-2410.html" rel="alternate"></link><published>2022-10-24T00:00:00-03:00</published><updated>2022-10-24T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-24:/recap-2410.html</id><summary type="html">&lt;h2&gt;Mini dólar - Trend from the open&lt;/h2&gt;
+* fazer mais testes de lateral no histórico&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Recap 25/10/22</title><link href="/recap-251022.html" rel="alternate"></link><published>2022-10-25T00:00:00-03:00</published><updated>2022-10-25T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-25:/recap-251022.html</id><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;a abertura nos 90min foi uma wedge de topo acima da HOY e seguiu uma lateralidade 
+O objetivo da wedge foi o ínicio do canal de alta que foi a abertura do dia.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 24/10/22</title><link href="/recap-241022.html" rel="alternate"></link><published>2022-10-24T00:00:00-03:00</published><updated>2022-10-24T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-24:/recap-241022.html</id><summary type="html">&lt;h2&gt;Mini dólar - Trend from the open&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Abriu em gap de alta e seguiu um canal de alta&lt;/li&gt;
 &lt;/ul&gt;
@@ -56,15 +301,41 @@ deu entrada nna …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&g
 &lt;ul&gt;
 &lt;li&gt;abriu em gap de baixa e seguiu em um microcanal por 7 barras, fez uma bandeira de topo duplo e soutou uma perna 2
 deu entrada nna formação da bandeira de topo duplo com alvo maior que 3xr&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 13/10</title><link href="/recap-1310.html" rel="alternate"></link><published>2022-10-13T00:00:00-03:00</published><updated>2022-10-13T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-13:/recap-1310.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 21/10/22</title><link href="/recap-211022.html" rel="alternate"></link><published>2022-10-21T00:00:00-03:00</published><updated>2022-10-21T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-21:/recap-211022.html</id><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;O dia abriu em um gap de alta e e evolui para uma wedge de topo eseguiu o resto dodia em uma tendencia de baixa.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 19/10/22</title><link href="/recap-191022.html" rel="alternate"></link><published>2022-10-19T00:00:00-03:00</published><updated>2022-10-19T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-19:/recap-191022.html</id><content type="html">&lt;h2&gt;Mini dólar - opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Abriu em um gap de alta e depois um microwedge de topo e uma lateralidade e um big up big down.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 17/10/22</title><link href="/recap-171022.html" rel="alternate"></link><published>2022-10-17T00:00:00-03:00</published><updated>2022-10-17T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-17:/recap-171022.html</id><content type="html">&lt;h1&gt;Mini dólar - opening reversal&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;abriu em gap de baixa e fez topo duplo nas primeiras 7 barras,  após isso seguiu queda em um TC de baixa.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 14/10/22</title><link href="/recap-141022.html" rel="alternate"></link><published>2022-10-14T00:00:00-03:00</published><updated>2022-10-14T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-14:/recap-141022.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Abriu em um gap de alta dentro do range do dia anterior e evoluiu para um micro cunha de topo e um rompimento e pullback de baixa em seguida.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 13/10/22</title><link href="/recap-131022.html" rel="alternate"></link><published>2022-10-13T00:00:00-03:00</published><updated>2022-10-13T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-13:/recap-131022.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Abriu em gap de baixa e evolouiu para uma reversão em cunha de fundo nas 18b.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 10/10</title><link href="/recap-1010.html" rel="alternate"></link><published>2022-10-10T00:00:00-03:00</published><updated>2022-10-10T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-10:/recap-1010.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 11/10/22</title><link href="/recap-111022.html" rel="alternate"></link><published>2022-10-11T00:00:00-03:00</published><updated>2022-10-11T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-11:/recap-111022.html</id><summary type="html">&lt;h2&gt;Mini dólar - Trend from the open&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de baixa no range do dia anterior e subiu em um canal largo  até a metade do pregão&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a b18 com ft na b19 foi uma SB fraca para um opening reversal com wedge de topo boa ft na b21 mas …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Mini dólar - Trend from the open&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Abriu em gap de baixa no range do dia anterior e subiu em um canal largo  até a metade do pregão&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a b18 com ft na b19 foi uma SB fraca para um opening reversal com wedge de topo boa ft na b21 mas a b22 foi uma barra de desistencia&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Recap 10/10/22</title><link href="/recap-101022.html" rel="alternate"></link><published>2022-10-10T00:00:00-03:00</published><updated>2022-10-10T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-10:/recap-101022.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;nas 18b formou uma wedge de fundo com a b13 como boa SB e com FT&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 07/10</title><link href="/recap-0710.html" rel="alternate"></link><published>2022-10-07T00:00:00-03:00</published><updated>2022-10-07T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-07:/recap-0710.html</id><content type="html">&lt;p&gt;Opening reversal
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 07/10/22</title><link href="/recap-071022.html" rel="alternate"></link><published>2022-10-07T00:00:00-03:00</published><updated>2022-10-07T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-07:/recap-071022.html</id><content type="html">&lt;p&gt;Opening reversal
 * Abriu em gap de baixa e nas 18b formou uma wedge de topo com b11 sendo uma SB fraca que teve FT na b12
-* A wedge permaneceu em uma TR durante toda a manhã.&lt;/p&gt;</content><category term="Recap"></category></entry><entry><title>Recap 06/10</title><link href="/recap-0610.html" rel="alternate"></link><published>2022-10-06T00:00:00-03:00</published><updated>2022-10-06T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-06:/recap-0610.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
+* A wedge permaneceu em uma TR durante toda a manhã.&lt;/p&gt;</content><category term="Recap"></category></entry><entry><title>Recap 06/10/22</title><link href="/recap-061022.html" rel="alternate"></link><published>2022-10-06T00:00:00-03:00</published><updated>2022-10-06T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-06:/recap-061022.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Abriu sem gap e fez uma wedge de fundo nas 18b com a b13 sendo a SB&lt;/p&gt;
@@ -72,10 +343,10 @@ deu entrada nna formação da bandeira de topo duplo com alvo maior que 3xr&lt;/
 &lt;li&gt;
 &lt;p&gt;A wedge evolui para uma lateralidade durante a manhã&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 05/10</title><link href="/recap-0510.html" rel="alternate"></link><published>2022-10-05T00:00:00-03:00</published><updated>2022-10-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-05:/recap-0510.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 05/10/22</title><link href="/recap-051022.html" rel="alternate"></link><published>2022-10-05T00:00:00-03:00</published><updated>2022-10-05T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-05:/recap-051022.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;abriu em um gap de alta  e nas 18b fez uma wedge de fundo e a b15 foi a SB&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 04/10</title><link href="/recap-0410.html" rel="alternate"></link><published>2022-10-04T00:00:00-03:00</published><updated>2022-10-04T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-04:/recap-0410.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 04/10/22</title><link href="/recap-041022.html" rel="alternate"></link><published>2022-10-04T00:00:00-03:00</published><updated>2022-10-04T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-04:/recap-041022.html</id><content type="html">&lt;h2&gt;Mini dólar - Opening reversal&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Abriu em um gap de baixa e reverteu em wedge de fundo nas 18b&lt;/p&gt;
@@ -83,7 +354,7 @@ deu entrada nna formação da bandeira de topo duplo com alvo maior que 3xr&lt;/
 &lt;li&gt;
 &lt;p&gt;a b16 foi a SB da wedge&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 03/10</title><link href="/recap-0310.html" rel="alternate"></link><published>2022-10-03T00:00:00-03:00</published><updated>2022-10-03T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-03:/recap-0310.html</id><summary type="html">&lt;h2&gt;Mini dólar - Trend from the open&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 03/10/22</title><link href="/recap-031022.html" rel="alternate"></link><published>2022-10-03T00:00:00-03:00</published><updated>2022-10-03T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-03:/recap-031022.html</id><summary type="html">&lt;h2&gt;Mini dólar - Trend from the open&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;abriu com gap de baixa  e seguiu em  um canal de baixa&lt;/p&gt;
@@ -116,7 +387,24 @@ deu entrada nna formação da bandeira de topo duplo com alvo maior que 3xr&lt;/
 &lt;h2&gt;Sabesp - Opening reversal&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;sabesp abriu em um gap de alta depois fez um rompimento de baixa e uma bandeira de baixa em forma de cunha&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Revisão da semana 2</title><link href="/revisao-da-semana-2.html" rel="alternate"></link><published>2022-09-24T00:00:00-03:00</published><updated>2022-09-24T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-24:/revisao-da-semana-2.html</id><summary type="html">&lt;ul&gt;
+&lt;/ul&gt;</content><category term="Recap"></category></entry><entry><title>Recap 27/09/22</title><link href="/recap-270922.html" rel="alternate"></link><published>2022-09-27T00:00:00-03:00</published><updated>2022-09-27T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-27:/recap-270922.html</id><content type="html">&lt;p&gt;v b6 h ol
+scalp
+gain&lt;/p&gt;
+&lt;p&gt;c b7 l ol
+scalp
+gain&lt;/p&gt;
+&lt;p&gt;c b12 l ol
+scalp
+gain&lt;/p&gt;
+&lt;p&gt;v b15 h ol
+scalp
+loss&lt;/p&gt;
+&lt;p&gt;c b16 h os
+scalp
+gain&lt;/p&gt;
+&lt;p&gt;c b20 l ol
+scalp
+gain&lt;/p&gt;</content><category term="Recap"></category></entry><entry><title>Revisão da semana 2</title><link href="/revisao-da-semana-2.html" rel="alternate"></link><published>2022-09-24T00:00:00-03:00</published><updated>2022-09-24T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-24:/revisao-da-semana-2.html</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;O semanal fechou uma barra interna de venda com grande sombra abaixo, portanto os vendedores perderam força com uma grande sombra abaixo&lt;/p&gt;
 &lt;/li&gt;
