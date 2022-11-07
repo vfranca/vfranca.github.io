@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>MetaTrader 5 para cegos - Trading</title><link href="/" rel="alternate"></link><link href="/feeds/trading.atom" rel="self"></link><id>/</id><updated>2022-11-06T00:00:00-03:00</updated><entry><title>Evolução de padrões no opening reversal</title><link href="/evolucao-de-padroes-no-opening-reversal.html" rel="alternate"></link><published>2022-11-06T00:00:00-03:00</published><updated>2022-11-06T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-06:/evolucao-de-padroes-no-opening-reversal.html</id><content type="html">&lt;p&gt;Em uma lateralidade no 18B e contexto bidirecional um fundo duplo bem marcado por uma SB forte pode evoluiir para uma wedge de topo, bem como um topo duplo pode evoluir para uma wedge de fundo
-exemplo mini dólar de 25/11/21&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Sinais de um trend from the open</title><link href="/sinais-de-um-trend-from-the-open.html" rel="alternate"></link><published>2022-11-06T00:00:00-03:00</published><updated>2022-11-06T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-06:/sinais-de-um-trend-from-the-open.html</id><summary type="html">&lt;p&gt;Em 20% das vezes temos um trend from the open ou uma tendência a partir da abertura em que a b1 se torna a máxima ou a mínima do dia.&lt;/p&gt;
+exemplo mini dólar de 25/11/21&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Semana 06/11/22</title><link href="/semana-061122.html" rel="alternate"></link><published>2022-11-06T00:00:00-03:00</published><updated>2022-11-06T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-06:/semana-061122.html</id><summary type="html">&lt;h2&gt;Mini dólar - lateral descendente no mensal testando mínimas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;lateral no mensal e no semanal e em baixa no diário indo testar as mínimas do semanal e mensal. Rompendo um swing anterior do semanal 5012 pode testar rregiões até 4613 do mensal.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;o mensal está lateral após uma  perna de baixa …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Mini dólar - lateral descendente no mensal testando mínimas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;lateral no mensal e no semanal e em baixa no diário indo testar as mínimas do semanal e mensal. Rompendo um swing anterior do semanal 5012 pode testar rregiões até 4613 do mensal.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;o mensal está lateral após uma  perna de baixa (5768-4613) fez uma correção profunda em 79% de duas pernas, portanto deixando mais para lateral com maior probabilidade de no máximo vir a tstar  4613 do que romper e fazer nova mínima
+Considerando a lateralidade é provável  os altistas comprarem abaixo de 4998
+e os baixistas venderem acima de 5383&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;O semanal rompeu falso uma bandeira de fundo duplo e os vendedores estão vendo uma bandeira final com alvo em 5012&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;O diário fez um rompimento e pullback com alvo de perna 2 = perna 1 em 4926&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Sinais de um trend from the open</title><link href="/sinais-de-um-trend-from-the-open.html" rel="alternate"></link><published>2022-11-06T00:00:00-03:00</published><updated>2022-11-06T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-06:/sinais-de-um-trend-from-the-open.html</id><summary type="html">&lt;p&gt;Em 20% das vezes temos um trend from the open ou uma tendência a partir da abertura em que a b1 se torna a máxima ou a mínima do dia.&lt;/p&gt;
 &lt;p&gt;Alguns sinais que podem reforçar essa hipótese são:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -28,49 +50,177 @@ exemplo mini dólar de 25/11/21&lt;/p&gt;</content><category term="Trading"></ca
 &lt;ol&gt;
 &lt;li&gt;Na SB.&lt;/li&gt;
 &lt;li&gt;Na 18b.&lt;/li&gt;
-&lt;/ol&gt;</content><category term="Trading"></category><category term="opening reversal"></category><category term="gerenciamento de operações"></category></entry><entry><title>Revisão do dia 27/10</title><link href="/revisao-do-dia-2710.html" rel="alternate"></link><published>2022-10-27T00:00:00-03:00</published><updated>2022-10-27T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-27:/revisao-do-dia-2710.html</id><summary type="html">&lt;p&gt;Erro: 
-* saí em um dia depois do loss e lateral. Dias depois de um dia lateral pela manhã constuma ser direcional 
-Solução: 
-* depois de um dia difícil e lateral procurar tendencia no dia seguinte para oque é provável que o dia seja bom&lt;/p&gt;
-&lt;p&gt;Erro: 
-* Com medo fiquei analisando o miniíndice …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Erro: 
-* saí em um dia depois do loss e lateral. Dias depois de um dia lateral pela manhã constuma ser direcional 
-Solução: 
-* depois de um dia difícil e lateral procurar tendencia no dia seguinte para oque é provável que o dia seja bom&lt;/p&gt;
-&lt;p&gt;Erro: 
-* Com medo fiquei analisando o miniíndice e o minidólar e vi oportunidades nos dois porém perdí de o timing certo nos dois. É preci
-Solução: 
-* não tentar operar o miníndice e o minidólar ao mesmo tempo pos não dá tempo de posicionar as órdens&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Revisão do dia 26/10</title><link href="/revisao-do-dia-2610.html" rel="alternate"></link><published>2022-10-26T00:00:00-03:00</published><updated>2022-10-26T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-26:/revisao-do-dia-2610.html</id><summary type="html">&lt;p&gt;Erro:
-* me antecipei às 7 primeiras barras ao operar os padrões de abertura
-Solução: 
-* esperar o padrão de abertura ou nas 7 primeiras barras para opening reversal ou nas 18 
-na 1a para trend from the open&lt;/p&gt;
-&lt;p&gt;Erro: 
-* apostei em uma queda muito no início especulei apostei só dessa vez …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Erro:
-* me antecipei às 7 primeiras barras ao operar os padrões de abertura
-Solução: 
-* esperar o padrão de abertura ou nas 7 primeiras barras para opening reversal ou nas 18 
-na 1a para trend from the open&lt;/p&gt;
-&lt;p&gt;Erro: 
-* apostei em uma queda muito no início especulei apostei só dessa vez
-Solução: 
-* Fazer mais testes de padrões de abertura no histórico&lt;/p&gt;
-&lt;p&gt;Erro: 
-* operei além do limite de loss dodia
-Solução: &lt;/p&gt;
-&lt;p&gt;Erro: 
-* tentei recuperar e aumentei o prejuízo&lt;/p&gt;
-&lt;p&gt;Erro:&lt;/p&gt;
-&lt;p&gt;Erro:
-* não travei a margem antes do pregão
-* perdi o controle
-Solução:
-* travar a margem para 3 operações de 8 pts durante pelo menos 2 mês
-ou 6 para evitar dia de fúria novo&lt;/p&gt;
-&lt;p&gt;Erro:
-* não operei o padrão lateral como lateral mas quis fazer trades de rompimento nos extremos
-Solução: 
-* fazer mais testes de lateral no histórico&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Revisão da semana 2</title><link href="/revisao-da-semana-2.html" rel="alternate"></link><published>2022-09-24T00:00:00-03:00</published><updated>2022-09-24T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-24:/revisao-da-semana-2.html</id><summary type="html">&lt;ul&gt;
+&lt;/ol&gt;</content><category term="Trading"></category><category term="opening reversal"></category><category term="gerenciamento de operações"></category></entry><entry><title>Dia 04/11/22</title><link href="/dia-041122.html" rel="alternate"></link><published>2022-11-04T00:00:00-03:00</published><updated>2022-11-04T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-11-04:/dia-041122.html</id><summary type="html">&lt;h2&gt;Erro&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Entrei na perda da mínima da 18b na formação da b37 apostando em um 18bd  mas a b37 foi uma barrra com sombra abaixo e fui estopado vendendo baixo
+estava já com u1r de loss e ansioso para recuperar a perda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solução&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;esperar a barra formar e esperar um …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Erro&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Entrei na perda da mínima da 18b na formação da b37 apostando em um 18bd  mas a b37 foi uma barrra com sombra abaixo e fui estopado vendendo baixo
+estava já com u1r de loss e ansioso para recuperar a perda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solução&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;esperar a barra formar e esperar um fechamento abaixo de u BOP&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Dia 31/10/22</title><link href="/dia-311022.html" rel="alternate"></link><published>2022-10-31T00:00:00-03:00</published><updated>2022-10-31T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-31:/dia-311022.html</id><content type="html">&lt;ul&gt;
+&lt;li&gt;operei com viéz o que me fez menosprezar os sinais e setups de venda&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Semana 1</title><link href="/semana-1.html" rel="alternate"></link><published>2022-10-29T00:00:00-03:00</published><updated>2022-10-29T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-29:/semana-1.html</id><summary type="html">&lt;h2&gt;Erros&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;estou operando grande demais para minha conta  mas o dólar é o ativo que tenho confiança
+não quero voltar para o mini índice e não tenho testes nas ações
+não quero ir para o milho pois o risco é maior que o meu capital&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;fico muito acomodado com pequenos …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Erros&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;estou operando grande demais para minha conta  mas o dólar é o ativo que tenho confiança
+não quero voltar para o mini índice e não tenho testes nas ações
+não quero ir para o milho pois o risco é maior que o meu capital&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;fico muito acomodado com pequenos ganos em dias de ganho e tenho medo de ir atrás de mais oportunidades
+e assim não abro a possibilidade para dias de muitos ganhos que compensariam dias de perda&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;soluções&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fazer testes de operações no mini ídice e ações&lt;/li&gt;
+&lt;li&gt;em dias bons de tendencia arriscar mais operações&lt;/li&gt;
+&lt;li&gt;reservar um capital que seja possível perder
+para o mini dólar 1000,00/mês
+para o mini ídice 500,00 / mês
+para as ações 250,00 / mês&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Dia 28/10/22</title><link href="/dia-281022.html" rel="alternate"></link><published>2022-10-28T00:00:00-03:00</published><updated>2022-10-28T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-28:/dia-281022.html</id><summary type="html">&lt;p&gt;erros
+* não deixei o stop necessário para uma lateralidade: stop técnico ou 2xr
+* medo de operar o fade das pernas&lt;/p&gt;
+&lt;p&gt;soluções
+* em tr aumentar o stop para 2r ou técnico para operar o extremo da lateralidade
+ou não operar caso não possa com o risco
+* treinar mais no histórico ou …&lt;/p&gt;</summary><content type="html">&lt;p&gt;erros
+* não deixei o stop necessário para uma lateralidade: stop técnico ou 2xr
+* medo de operar o fade das pernas&lt;/p&gt;
+&lt;p&gt;soluções
+* em tr aumentar o stop para 2r ou técnico para operar o extremo da lateralidade
+ou não operar caso não possa com o risco
+* treinar mais no histórico ou em conta demo a operação de fade em lateralidades
+talvez à tarde em um período fora do horário de operações&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Dia 27/10/22</title><link href="/dia-271022.html" rel="alternate"></link><published>2022-10-27T00:00:00-03:00</published><updated>2022-10-27T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-27:/dia-271022.html</id><summary type="html">&lt;h2&gt;Erro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;saí em um dia depois do loss e lateral. Dias depois de um dia lateral pela manhã costuma ser direcional. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solução:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;depois de um dia difícil e lateral procurar tendencia no dia seguinte porque é provável que o dia seja bom para tendência.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Erro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Com medo fiquei analisando o …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Erro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;saí em um dia depois do loss e lateral. Dias depois de um dia lateral pela manhã costuma ser direcional. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solução:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;depois de um dia difícil e lateral procurar tendencia no dia seguinte porque é provável que o dia seja bom para tendência.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Erro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Com medo fiquei analisando o miniíndice e o minidólar e vi oportunidades nos dois porém perdí o timing certo nos dois. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solução:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;não tentar operar o miníndice e o minidólar ao mesmo tempo pois não dá tempo de posicionar as órdens.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Dia 26/10/22</title><link href="/dia-261022.html" rel="alternate"></link><published>2022-10-26T00:00:00-03:00</published><updated>2022-10-26T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-26:/dia-261022.html</id><summary type="html">&lt;h2&gt;Erro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;me antecipei às 7 primeiras barras ao operar os padrões de abertura&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solução:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;esperar o padrão de abertura ou nas 7 primeiras barras para opening reversal ou nas 18 
+na 1a para trend from the open&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Erro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;apostei em uma queda muito no início especulei apostei só dessa vez …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Erro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;me antecipei às 7 primeiras barras ao operar os padrões de abertura&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solução:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;esperar o padrão de abertura ou nas 7 primeiras barras para opening reversal ou nas 18 
+na 1a para trend from the open&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Erro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;apostei em uma queda muito no início especulei apostei só dessa vez&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solução:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fazer mais testes de padrões de abertura no histórico&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Erro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;operei além do limite de loss dodia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tentei recuperar e aumentei o prejuízo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;não travei a margem antes do pregão.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;perdi o controle.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solução:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;travar a margem para 3 operações de 8 pts durante pelo menos 2 mês
+ou 6 para evitar dia de fúria novo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Erro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;não operei o padrão lateral como lateral mas quis fazer trades de rompimento nos extremos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solução:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;fazer mais testes de lateral no histórico&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evitar rompimentos nos extremos das lateralidades&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Dia 25/10/22</title><link href="/dia-251022.html" rel="alternate"></link><published>2022-10-25T00:00:00-03:00</published><updated>2022-10-25T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-25:/dia-251022.html</id><content type="html">&lt;ul&gt;
+&lt;li&gt;não reconheci um dia de tendência e não operei a tendência 
+Soluções&lt;/li&gt;
+&lt;li&gt;fazer testes de dias tendência&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>O ciclo do mercado</title><link href="/o-ciclo-do-mercado.html" rel="alternate"></link><published>2022-10-23T00:00:00-03:00</published><updated>2022-10-23T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-23:/o-ciclo-do-mercado.html</id><summary type="html">&lt;p&gt;O ciclo do mercado
+O preço está na maioria do tempo em um equilíbrio entre compradores e vendedores ou em uma região de lateralidade e por vezes ele está em um forte deslocamento ou rompimento buscando  outra lateralidade.&lt;/p&gt;
+&lt;p&gt;Dito isso, nós temos então um ciclo infinito indo da lateralidade ao …&lt;/p&gt;</summary><content type="html">&lt;p&gt;O ciclo do mercado
+O preço está na maioria do tempo em um equilíbrio entre compradores e vendedores ou em uma região de lateralidade e por vezes ele está em um forte deslocamento ou rompimento buscando  outra lateralidade.&lt;/p&gt;
+&lt;p&gt;Dito isso, nós temos então um ciclo infinito indo da lateralidade ao rompimento e do rompimento à lateralidade&lt;/p&gt;
+&lt;p&gt;Nesse cico nós temos então as fases: lateralidade, rompimento e canal.&lt;/p&gt;
+&lt;p&gt;Em 10% do tempo temos um rompimento e nos restantes 90% temos uma lateralidade ou canal.&lt;/p&gt;
+&lt;p&gt;A lateralidade pode ser subdividida em lateralidade e lateralidade estreita.&lt;/p&gt;
+&lt;p&gt;O canal pode ser subdividido em canal amplo e canal estreito.&lt;/p&gt;
+&lt;p&gt;v Manual de price action capítulo 3 o ciclo do mercado
+https://www.priceaction.com.br/uncategorized/o-ciclo-do-mercado/&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Opening reversal</title><link href="/opening-reversal.html" rel="alternate"></link><published>2022-10-22T00:00:00-03:00</published><updated>2022-10-22T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-22:/opening-reversal.html</id><summary type="html">&lt;p&gt;Em 20% dos dias o preço abre em uma tendência para as próximas 3 a 4 horas ou pelo resto do dia&lt;/p&gt;
+&lt;p&gt;Nos 80% dos dias restantes ocorre uma reversão lateralidade que pode gerar um movimento projetado ou uma tendência&lt;/p&gt;
+&lt;p&gt;Na maioria dos dias o mercado abre em uma reversão …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Em 20% dos dias o preço abre em uma tendência para as próximas 3 a 4 horas ou pelo resto do dia&lt;/p&gt;
+&lt;p&gt;Nos 80% dos dias restantes ocorre uma reversão lateralidade que pode gerar um movimento projetado ou uma tendência&lt;/p&gt;
+&lt;p&gt;Na maioria dos dias o mercado abre em uma reversão que pode resultar em uma tendência para as próximas 2 a 3 horas ou pelo dia todo&lt;/p&gt;
+&lt;p&gt;20% será um dia de tendência a partir da abertura Trend from the open
+80% dos dias será um dia de reversão a partir da abertura&lt;/p&gt;
+&lt;p&gt;Em 50 % dos dias nos primeiros 60 min o mercado abre em um opening reversal
+Em 90% dos dias o mercado abre em um opening reversal&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Dia 03/10/22</title><link href="/dia-031022.html" rel="alternate"></link><published>2022-10-03T00:00:00-03:00</published><updated>2022-10-03T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-10-03:/dia-031022.html</id><summary type="html">&lt;p&gt;foi um dia de órdem stop e eu estava na estratégia de órdem lmit&lt;/p&gt;
+&lt;p&gt;O stop pdrão também em caso de mercdo forte pode deixar de fora ou não entrar a favor pla segunda vez não é uma boa&lt;/p&gt;
+&lt;p&gt;também insistir em correções muito fortes também não é bom em …&lt;/p&gt;</summary><content type="html">&lt;p&gt;foi um dia de órdem stop e eu estava na estratégia de órdem lmit&lt;/p&gt;
+&lt;p&gt;O stop pdrão também em caso de mercdo forte pode deixar de fora ou não entrar a favor pla segunda vez não é uma boa&lt;/p&gt;
+&lt;p&gt;também insistir em correções muito fortes também não é bom em uma tendência forte&lt;/p&gt;
+&lt;p&gt;ficar com dor por ter perdido uma entrada e anncioso por uma nova entrada faz me antecipar e me posicionar mal&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>Semana 24/09/22</title><link href="/semana-240922.html" rel="alternate"></link><published>2022-09-24T00:00:00-03:00</published><updated>2022-09-24T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-24:/semana-240922.html</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;O semanal fechou uma barra interna de venda com grande sombra abaixo, portanto os vendedores perderam força com uma grande sombra abaixo&lt;/p&gt;
 &lt;/li&gt;
@@ -159,7 +309,7 @@ Solução:
 &lt;li&gt;
 &lt;p&gt;Os compradores estão vendo uma possível formação de wedge e portanto vão comprar a falha de rompimento da LCB 5261 com alvo no início do canal de baixa 5329&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Revisão da semana 1</title><link href="/revisao-da-semana-1.html" rel="alternate"></link><published>2022-09-17T00:00:00-03:00</published><updated>2022-09-17T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-17:/revisao-da-semana-1.html</id><summary type="html">&lt;p&gt;W1&lt;/p&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Semana 17/09/22</title><link href="/semana-170922.html" rel="alternate"></link><published>2022-09-17T00:00:00-03:00</published><updated>2022-09-17T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-09-17:/semana-170922.html</id><summary type="html">&lt;p&gt;W1&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;A barra da semana foi uma barra compradora e representa uma H3 implícita&lt;/p&gt;
@@ -200,7 +350,60 @@ Solução:
 &lt;li&gt;
 &lt;p&gt;Os vendedores precisam confirmar uma falha de rompimento com barras fechando na mínima empurrando o preço novamente para dentro da lateralidade&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Recap 02/05</title><link href="/recap-0205.html" rel="alternate"></link><published>2022-05-02T00:00:00-03:00</published><updated>2022-05-02T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-05-02:/recap-0205.html</id><content type="html">&lt;table&gt;
+&lt;/ul&gt;</content><category term="Trading"></category></entry><entry><title>Gaps</title><link href="/gaps.html" rel="alternate"></link><published>2022-08-10T00:00:00-03:00</published><updated>2022-08-10T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-08-10:/gaps.html</id><content type="html">&lt;p&gt;gap entre swings
+gap entre barras
+gap de fechamento
+gap do dia
+gap de abertura&lt;/p&gt;</content><category term="Trading"></category></entry><entry><title>os passos do meu day trading</title><link href="/os-passos-do-meu-day-trading.html" rel="alternate"></link><published>2022-08-08T00:00:00-03:00</published><updated>2022-08-08T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-08-08:/os-passos-do-meu-day-trading.html</id><summary type="html">&lt;p&gt;os passos do meu day trading&lt;/p&gt;
+&lt;p&gt;passo 1 defini o stop por operação
+esse stop depende do tempo opeacional
+cada tempo gráfico tem um range médio
+esse range médio servirá para definir um stop padrão
+exemplo m5 do dolar mini tem um range de 6 a 8 pts em média …&lt;/p&gt;</summary><content type="html">&lt;p&gt;os passos do meu day trading&lt;/p&gt;
+&lt;p&gt;passo 1 defini o stop por operação
+esse stop depende do tempo opeacional
+cada tempo gráfico tem um range médio
+esse range médio servirá para definir um stop padrão
+exemplo m5 do dolar mini tem um range de 6 a 8 pts em média
+vou adotar 6 pts como média e 6 pts como meu stop padrão&lt;/p&gt;
+&lt;p&gt;passo 2 vou definir quantas operações posso perder em sequencia
+exemplo no mini dólaar se perder 3 operações em sequencia de primeira vou parar
+e admitir que naquele dia minha leitura está errada&lt;/p&gt;
+&lt;p&gt;passo 3 estipulei limites de perdas mensal, semanal e diário
+Estabeleci um limite mensal
+um valor que estou admitindo perder
+exemplo 720.00
+esse valor vou dividir por semana
+360.00
+é o valor que admito perder por semana se ficar muito pequeno vou juntar 2 para dar uma semana
+esse valor vou dividir por dia
+e se ficar muito pequeno vou somar até dar um dia para que eu possa perder pelo menos 3 vezes
+no exemplo preciso de 180.00
+o que dará 2 dias por semana&lt;/p&gt;
+&lt;p&gt;passo 4 Defini minha estratégia para entar
+ somente entrar em 1 fbo de tc  2 2a perna de pb&lt;/p&gt;
+&lt;p&gt;passo 6 só vou entrar abaixo da média de 20
+e qdo a média de 5 estiver abaixo da média de 207. buscar um alvo de 3 x o risco no mínimo&lt;/p&gt;
+&lt;p&gt;passo 7
+ buscar alvos de mm quando estiver acima de 3x risco&lt;/p&gt;
+&lt;p&gt;passo 8
+não entrar qdo o risco superar o risco limite
+em algumas operações o risco precisará ser um stop técnico que supera o risco máximo estipulado
+exemplo em uma lateralidade precisando de um stop 3 vezes maior não poderia entrar&lt;/p&gt;
+&lt;p&gt;passo 9
+não operar mais ao atingir o limite financeiro do dia
+o limite diário proteje o plano financiero do seman e do mês
+evita que eu faça muitas operações desnecessariamente
+evita que eu desencadeie um dia de fúria de completo descontrole emocional&lt;/p&gt;
+&lt;p&gt;passo 10
+somente operar após o price action formado  depois das break news
+exemplo o fomc e o pay roll causam muita volatilidade e depois de um tempo o mercado geralmente define um lado&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;fazer recaps diários&lt;/li&gt;
+&lt;li&gt;fazer revisões de conjuntos de operações de 20 em 20&lt;/li&gt;
+&lt;li&gt;marcar os pontos de price actions antes das operaçõs&lt;/li&gt;
+&lt;li&gt;revisar o calendário economico do dia para não operar em notícia&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Trading"></category></entry><entry><title>Recap 02/05</title><link href="/recap-0205.html" rel="alternate"></link><published>2022-05-02T00:00:00-03:00</published><updated>2022-05-02T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2022-05-02:/recap-0205.html</id><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;EB&lt;/th&gt;

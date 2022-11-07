@@ -1,0 +1,12 @@
+Title: como eu violo meu gerenciamento de risco
+Date: 2022-11-01
+Category: Trading
+
+
+
+* assumindo um trade com risco maior que o planejado ou suportado pela conta
+
+* Assuminndo trades depois de alcançado o limite do dia, assumindo assim um risco maior do que o planejado no dia
+
+* Assumindo dia s além do limite estipulado na semana ou no mês, assumindo assim um risco maior do que o planejado para esses períodos
+
