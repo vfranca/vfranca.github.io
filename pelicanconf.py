@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Valmir'
-SITENAME = 'MetaTrader 5 para cegos'
+AUTHOR = 'Valmir França'
+SITENAME = 'Price action para cegos'
 SITEURL = ''
 
 PATH = 'content'

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Operando no Escuro - mtcli</title><link href="/" rel="alternate"></link><link href="/feeds/mtcli.atom" rel="self"></link><id>/</id><updated>2021-10-17T00:00:00-03:00</updated><entry><title>Marcadores</title><link href="/marcadores.html" rel="alternate"></link><published>2021-10-17T00:00:00-03:00</published><updated>2021-10-17T00:00:00-03:00</updated><author><name>Valmir</name></author><id>tag:None,2021-10-17:/marcadores.html</id><summary type="html">&lt;p&gt;Os marcadores são anotações que são deixads no terminal exemplo ltb 116040 atribui ao marcador ltb o valo 116040 e digitando apensa ltb serrá exibido o valor gardadeo de 116040
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Price action para cegos - mtcli</title><link href="/" rel="alternate"></link><link href="/feeds/mtcli.atom" rel="self"></link><id>/</id><updated>2021-10-17T00:00:00-03:00</updated><entry><title>Marcadores</title><link href="/marcadores.html" rel="alternate"></link><published>2021-10-17T00:00:00-03:00</published><updated>2021-10-17T00:00:00-03:00</updated><author><name>Valmir França</name></author><id>tag:None,2021-10-17:/marcadores.html</id><summary type="html">&lt;p&gt;Os marcadores são anotações que são deixads no terminal exemplo ltb 116040 atribui ao marcador ltb o valo 116040 e digitando apensa ltb serrá exibido o valor gardadeo de 116040
 Esse recurso é muito útil para marcar os preços de estudos Os grafistas videntes tem os objetos para colocar em …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Os marcadores são anotações que são deixads no terminal exemplo ltb 116040 atribui ao marcador ltb o valo 116040 e digitando apensa ltb serrá exibido o valor gardadeo de 116040
 Esse recurso é muito útil para marcar os preços de estudos Os grafistas videntes tem os objetos para colocar em seus gráficos que são linhas marcando regiões e preços importantes
 Os marcadores são um recuroso que se equipara para o deficiente visual 
@@ -16,4 +16,85 @@ fd
 ts
 ti
 n1, .. n5&lt;/p&gt;
-&lt;p&gt;Os marcadores não está ainda embutido no mtcli e estão disponíveis apenas na pasta mtcli que pode ser baixada no link abaixo&lt;/p&gt;</content><category term="mtcli"></category><category term="mtcli"></category><category term="marcadores do mtcli"></category></entry></feed>
+&lt;p&gt;Os marcadores não está ainda embutido no mtcli e estão disponíveis apenas na pasta mtcli que pode ser baixada no link abaixo&lt;/p&gt;</content><category term="mtcli"></category><category term="mtcli"></category><category term="marcadores do mtcli"></category></entry><entry><title>Principais atalhos disponíveis na pasta de trabalho:</title><link href="/principais-atalhos-disponiveis-na-pasta-de-trabalho.html" rel="alternate"></link><published>2021-10-17T00:00:00-03:00</published><updated>2021-10-17T00:00:00-03:00</updated><author><name>Valmir França</name></author><id>tag:None,2021-10-17:/principais-atalhos-disponiveis-na-pasta-de-trabalho.html</id><summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Atalho&lt;/th&gt;
+&lt;th&gt;Comando&lt;/th&gt;
+&lt;th&gt;Descrição&lt;/th&gt;
+&lt;th&gt;Indicado para&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;dd1&lt;/td&gt;
+&lt;td&gt;mt bars &lt;ticker&gt; -p daily&lt;/td&gt;
+&lt;td&gt;gráfico cheio com todas as informações do candle do diário&lt;/td&gt;
+&lt;td&gt;ler força de barras e outras leituras&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;d1&lt;/td&gt;
+&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v ch&lt;/td&gt;
+&lt;td&gt;gráfico de máximas e mínimas do diário&lt;/td&gt;
+&lt;td&gt;ler canais&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;d1r&lt;/td&gt;
+&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v r …&lt;/ticker&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Atalho&lt;/th&gt;
+&lt;th&gt;Comando&lt;/th&gt;
+&lt;th&gt;Descrição&lt;/th&gt;
+&lt;th&gt;Indicado para&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;dd1&lt;/td&gt;
+&lt;td&gt;mt bars &lt;ticker&gt; -p daily&lt;/td&gt;
+&lt;td&gt;gráfico cheio com todas as informações do candle do diário&lt;/td&gt;
+&lt;td&gt;ler força de barras e outras leituras&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;d1&lt;/td&gt;
+&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v ch&lt;/td&gt;
+&lt;td&gt;gráfico de máximas e mínimas do diário&lt;/td&gt;
+&lt;td&gt;ler canais&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;d1r&lt;/td&gt;
+&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v r&lt;/td&gt;
+&lt;td&gt;gráfico de ranges do diário&lt;/td&gt;
+&lt;td&gt;identificar rompimentos ou clímax&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;d1o&lt;/td&gt;
+&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v var&lt;/td&gt;
+&lt;td&gt;gráfico com as oscilações percentuais fechamento contra fechamento do diário&lt;/td&gt;
+&lt;td&gt;ler somente as variações percentuais&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;d1c&lt;/td&gt;
+&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v c&lt;/td&gt;
+&lt;td&gt;gráfico com os fechamentos do diário&lt;/td&gt;
+&lt;td&gt;ler somente os fechamentos como no gráfico de linhas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;d1v&lt;/td&gt;
+&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v vol&lt;/td&gt;
+&lt;td&gt;gráfico com os volumes de negociação em ticks  do diário&lt;/td&gt;
+&lt;td&gt;ler somente o volume de negócios&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Para os demais tempos gráficos substitua o d1:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;mn1 para mensal (monthly)&lt;/li&gt;
+&lt;li&gt;w1 para semanal (weekly)&lt;/li&gt;
+&lt;li&gt;h4 para 4 horas&lt;/li&gt;
+&lt;li&gt;h1 para 1 hora&lt;/li&gt;
+&lt;li&gt;m15 para 15min&lt;/li&gt;
+&lt;li&gt;m5 para 5min&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Os atalhos para variação percentual, volume e fechamento estão disponíveis apenas a partir do diário&lt;/p&gt;</content><category term="mtcli"></category><category term="mtcli"></category><category term="atalhos do mtcli"></category></entry></feed>
