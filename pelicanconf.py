@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Valmir França'
-SITENAME = 'Price action para cegos'
+SITENAME = 'Price Action Acessível'
 SITEURL = ''
 
 PATH = 'content'
