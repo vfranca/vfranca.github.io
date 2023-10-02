@@ -23,7 +23,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (
      ('mtcli', 'https://pypi.org/project/mtcli/'),
      ('MetaTrader 5', 'https://www.metatrader5.com/pt'),
-     ('Manual de price action', 'https://www.priceaction.com.br/conteudo-livre/manual-de-price-action/'),
+     ('Portal Price Action', 'https://www.priceaction.com.br')
 )
 
 # Social widget
