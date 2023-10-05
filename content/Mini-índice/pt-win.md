@@ -1,22 +1,15 @@
-Title: Plano de trading - mini-índice
+Title: Plano de Trading
 Date: 2023-10-02
-Status: hidden
-Tags: mini-índice, WIN
-
-|  | |
-| ---- | ---- |
-| unidade de risco | -80.00* |
-| stop padrao | 200 pts |
-| alvo de lucro/trade |	3R |
-| rebaixamento maximo saldo inicial |	-20% |
-| meta diaria |	3R |
-| meta semanal |	6R |
-| meta mensal |	16R |
-| limite de perda diaria |	-1.5R |
-| margem de garantia |	240.00/lote |
-| capital operacional |	2400.00/trimestre |
-| saldo minimo conta corretora |	=margem |
-| janela de operacao |	9h00 as 12h00 |  
+Modified: 2023-10-05
+Status: draft
+Tags: mini-índice, WIN, plano de trading
 
 
-* necessario ter 0.5r para entrar com essa mao
+| Ítem |  Valor relativo | Valor absoluto |
+| ---- | ---- | ---- |
+| drawdown absoluto | 30% do saldo da conta | 720.00 ou 18R
+| draw down diário | 0.5% do saldo da conta| 120.00 ou 3R |
+| risco por trade (R) | 0.1% do saldo da conta | 40.00 |
+| Meta de lucro mensal | 30% do saldo da conta | 720.00 ou 18R |
+| Meta de lucro semanal |  | 6R |
+| Meta de lucro diário | | 3R |
