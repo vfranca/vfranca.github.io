@@ -1,6 +1,6 @@
-Title: Recap 28 Set 23
+Title: Melhores Trades do Dia 28 Set 23
 Date: 2023-09-28
-Tags: mini-índice, WIN, recap
+Tags: mini-índice, WIN, melhores trades do dia
 
 ## WINV23 M5
 

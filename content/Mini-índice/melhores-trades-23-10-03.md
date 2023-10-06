@@ -1,6 +1,6 @@
-Title: Recap 03 Out 23
+Title: Melhores Trades do Dia 03 Out 23
 Date: 2023-10-03
-Tags: mini-índice, WIN, recap
+Tags: mini-índice, WIN, melhores trades do dia
 
 ## WINV23 M5
 
