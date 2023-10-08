@@ -1,6 +1,6 @@
 Title: Contextos
 Date: 2023-10-08
-Status: draft
+Status: published
 Tags: price action, contextos
 
 | CONTEXTO | ENTRADA | 

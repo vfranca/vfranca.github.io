@@ -1,6 +1,6 @@
 Title: Setups
 Date: 2023-10-08
-Status: draft
+Status: published
 Tags: price action, setups
 
 
