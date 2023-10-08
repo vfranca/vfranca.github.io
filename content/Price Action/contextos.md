@@ -3,15 +3,6 @@ Date: 2023-10-08
 Status: draft
 Tags: price action, contextos
 
-1. CONTEXTOS BASE
-
-| CONTEXTO | CONTEXTOS DERIVADOS |
-| ----- | ----- |
-| alta | rompimento de alta/canal estreito de alta / bandeira de alta |
-| baixa | rompimento de baixa / canal estreito de baixa / bandeira de baixa |
-| lateral | |
-2. CONTEXTOS DERIVADOS
-
 | CONTEXTO | ENTRADA | 
 | ----- | ----- | 
 | rompimento de alta | btc/fade |
@@ -20,3 +11,5 @@ Tags: price action, contextos
 | canal estreito de baixa | stc/fade |
 | bandeira de alta | btc/fade |
 | bandeira de baixa |stc/fade |
+| lateralidade | fade | 
+| MTR | fade/btc/stc |
