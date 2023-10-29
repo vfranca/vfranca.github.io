@@ -1,16 +1,24 @@
-Title: Plano de Trading
+Title: Plano de Trading WIN
 Date: 2023-10-02
-Modified: 2023-10-18
-Status: draft
+Modified: 2023-10-29
+Status: hidden
 Tags: mini-índice, WIN, plano de trading
 
+## Dinheiro 3000.00 BRL
 
-| Ítem |  Valor relativo | Valor absoluto |
+| ítem |  |  |
+| --- | --- | --- |
+| drawdown máximo | -600.00 | -20% |
+| drawdown diario | -150.00 | -5% |
+| meta mensal | 600.00 | 20% |
+| risco R | -40.00 | -1.3% |
+
+## Risco  -40.00 BRL
+
+| ítem |  | |
 | ---- | ---- | ---- |
-|saldo da conta por trimestre | | 2000.00 |
-| risco por trade (R) | -0.2% do saldo da conta | 40.00 |
-| drawdown absoluto | -30% do saldo da conta | 18R ou -720.00 |
-| draw down diário | -0.6% do saldo da conta| -3R ou -120.00 |
-| Meta de lucro mensal | 30% do saldo da conta | 18R =720.00 |
-| Meta de lucro semanal |  | 6R =240.00 |
-| Meta de lucro diário | | 3R =120.00 |
+| limite diario | -3R | -120.00 |
+| meta diária | 5R | 200.00 |
+| meta mensal | 15R | 600.00 |
+| stop padrão pts | 200 | 40.00 |
+| lotes | 1 | 1 |
