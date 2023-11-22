@@ -1,7 +1,7 @@
 Title: Plano de Trading WIN
 Date: 2023-10-02
 Modified: 2023-11-21
-Status: draft
+Status: published
 Tags: mini-índice, WIN, plano de trading
 
 ## Dinheiro 2000.00 BRL
