@@ -1,7 +1,8 @@
-Title: Principais atalhos disponíveis na pasta de trabalho:  
+Title: Atalhos de comandos
 Date: 2021-10-17
-Tags: mtcli, atalhos do mtcli
-Status: draft
+Modified: 2024-04-15
+Tags: mtcli, atalhos de comandos, workspace
+Status: published
 
 | Atalho | Comando | Descrição | Indicado para |
 | ---- | ---- | ----- | --- |

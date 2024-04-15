@@ -1,79 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt_br">
 <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="generator" content="Pelican" />
-        <title>Price action para cegos - mtcli</title>
+        <title>Price Action Acessível - mtcli</title>
         <link rel="stylesheet" href="/theme/css/main.css" />
-        <link href="/feeds.atom" type="application/atom+xml" rel="alternate" title="Price action para cegos Atom Feed" />
+        <link href="/feeds.atom" type="application/atom+xml" rel="alternate" title="Price Action Acessível Atom Feed" />
 </head>
 
 <body id="index" class="home">
         <header id="banner" class="body">
-                <h1><a href="/">Price action para cegos</a></h1>
+                <h1><a href="/">Price Action Acessível</a></h1>
                 <nav><ul>
-                    <li><a href="/category/minicurso.html">Minicurso</a></li>
                     <li class="active"><a href="/category/mtcli.html">mtcli</a></li>
-                    <li><a href="/category/price-action.html">Price Action</a></li>
-                    <li><a href="/category/trading.html">Trading</a></li>
+                    <li><a href="/category/tutorial.html">Tutorial</a></li>
+                    <li><a href="/category/win.html">WIN</a></li>
                 </ul></nav>
         </header><!-- /#banner -->
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="/marcadores.html">Marcadores</a></h1>
+                    <h1 class="entry-title"><a href="/atalhos-de-comandos.html">Atalhos de comandos</a></h1>
 <footer class="post-info">
         <abbr class="published" title="2021-10-17T00:00:00-03:00">
                 Published: dom 17 outubro 2021
+        </abbr>
+		<br />
+        <abbr class="modified" title="2024-04-15T00:00:00-03:00">
+                Updated: seg 15 abril 2024
         </abbr>
 
         <address class="vcard author">
                 By                         <a class="url fn" href="/author/valmir-franca.html">Valmir França</a>
         </address>
 <p>In <a href="/category/mtcli.html">mtcli</a>.</p>
-<p>tags: <a href="/tag/mtcli.html">mtcli</a> <a href="/tag/marcadores-do-mtcli.html">marcadores do mtcli</a> </p>
-</footer><!-- /.post-info --><p>Os marcadores são anotações que são deixads no terminal exemplo ltb 116040 atribui ao marcador ltb o valo 116040 e digitando apensa ltb serrá exibido o valor gardadeo de 116040
-Esse recurso é muito útil para marcar os preços de estudos Os grafistas videntes tem os objetos para colocar em seus gráficos que são linhas marcando regiões e preços importantes
-Os marcadores são um recuroso que se equipara para o deficiente visual 
-Os marcadores disponíveis são
-lta
-lca
-ltb
-lcb
-pb1
-pb2
-pb3
-tp
-fd
-ts
-ti
-n1, .. n5</p>
-<p>Os marcadores não está ainda embutido no mtcli e estão disponíveis apenas na pasta mtcli que pode ser baixada no link abaixo</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/principais-atalhos-disponiveis-na-pasta-de-trabalho.html" rel="bookmark"
-                           title="Permalink to Principais atalhos disponíveis na pasta de trabalho:">Principais atalhos disponíveis na pasta de trabalho:</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2021-10-17T00:00:00-03:00">
-                Published: dom 17 outubro 2021
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/valmir-franca.html">Valmir França</a>
-        </address>
-<p>In <a href="/category/mtcli.html">mtcli</a>.</p>
-<p>tags: <a href="/tag/mtcli.html">mtcli</a> <a href="/tag/atalhos-do-mtcli.html">atalhos do mtcli</a> </p>
-</footer><!-- /.post-info -->                <table>
+<p>tags: <a href="/tag/mtcli.html">mtcli</a> <a href="/tag/atalhos-de-comandos.html">atalhos de comandos</a> <a href="/tag/workspace.html">workspace</a> </p>
+</footer><!-- /.post-info --><table>
 <thead>
 <tr>
 <th>Atalho</th>
@@ -97,8 +60,73 @@ n1, .. n5</p>
 </tr>
 <tr>
 <td>d1r</td>
-<td>mt bars <ticker> -p daily -v r …</ticker></td></tr></tbody></table>
-                <a class="readmore" href="/principais-atalhos-disponiveis-na-pasta-de-trabalho.html">read more</a>
+<td>mt bars <ticker> -p daily -v r</td>
+<td>gráfico de ranges do diário</td>
+<td>identificar rompimentos ou clímax</td>
+</tr>
+<tr>
+<td>d1o</td>
+<td>mt bars <ticker> -p daily -v var</td>
+<td>gráfico com as oscilações percentuais fechamento contra fechamento do diário</td>
+<td>ler somente as variações percentuais</td>
+</tr>
+<tr>
+<td>d1c</td>
+<td>mt bars <ticker> -p daily -v c</td>
+<td>gráfico com os fechamentos do diário</td>
+<td>ler somente os fechamentos como no gráfico de linhas</td>
+</tr>
+<tr>
+<td>d1v</td>
+<td>mt bars <ticker> -p daily -v vol</td>
+<td>gráfico com os volumes de negociação em ticks  do diário</td>
+<td>ler somente o volume de negócios</td>
+</tr>
+</tbody>
+</table>
+<p>Para os demais tempos gráficos substitua o d1:  </p>
+<ul>
+<li>mn1 para mensal (monthly)</li>
+<li>w1 para semanal (weekly)</li>
+<li>h4 para 4 horas</li>
+<li>h1 para 1 hora</li>
+<li>m15 para 15min</li>
+<li>m5 para 5min</li>
+</ul>
+<p>Os atalhos para variação percentual, volume e fechamento estão disponíveis apenas a partir do diário</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/marcacoes.html" rel="bookmark"
+                           title="Permalink to Marcações">Marcações</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2021-10-17T00:00:00-03:00">
+                Published: dom 17 outubro 2021
+        </abbr>
+		<br />
+        <abbr class="modified" title="2024-04-15T00:00:00-03:00">
+                Updated: seg 15 abril 2024
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/valmir-franca.html">Valmir França</a>
+        </address>
+<p>In <a href="/category/mtcli.html">mtcli</a>.</p>
+<p>tags: <a href="/tag/mtcli.html">mtcli</a> <a href="/tag/marcacoes.html">marcações</a> <a href="/tag/workspace.html">workspace</a> </p>
+</footer><!-- /.post-info -->                <p>As marcações são anotações que podem ser gravadas no prompt de comandos.<br>
+exemplos: <br>
+tl 116040 atribui à marcaçã TL o valor 116040 
+digitando apenas tl será exibido o valor salvo de 116040
+Esse recurso é muito útil para marcar os preços de estudos Os grafistas videntes tem os objetos para …</p>
+                <a class="readmore" href="/marcacoes.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
                 </ol><!-- /#posts-list -->
@@ -109,7 +137,7 @@ n1, .. n5</p>
                         <ul>
                             <li><a href="https://pypi.org/project/mtcli/">mtcli</a></li>
                             <li><a href="https://www.metatrader5.com/pt">MetaTrader 5</a></li>
-                            <li><a href="https://www.priceaction.com.br/conteudo-livre/manual-de-price-action/">Manual de price action</a></li>
+                            <li><a href="https://www.priceaction.com.br">Portal Price Action</a></li>
                         </ul>
                 </div><!-- /.blogroll -->
                 <div class="social">
@@ -124,10 +152,10 @@ n1, .. n5</p>
 
         <footer id="contentinfo" class="body">
                 <address id="about" class="vcard body">
-                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                Proudly powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a rel="nofollow" href="https://www.python.org/">Python</a>.
                 </address><!-- /#about -->
 
-                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+                <p>The theme is by <a rel="nofollow" href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
         </footer><!-- /#contentinfo -->
 
 </body>
