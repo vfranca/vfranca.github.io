@@ -2,6 +2,7 @@ Title: 3 - Price action - Ciclo de mercado
 Date: 2022-04-01
 Modified: 2023-09-07
 Tags: price action, metatrader 5
+Status: hidden
 
 ## As 4 fases do ciclo de mercado  
 * O mercado sempre vai estar ou em lateralidade ou em tendência.  

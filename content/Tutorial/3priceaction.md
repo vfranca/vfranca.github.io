@@ -1,21 +1,22 @@
-Title: 2 - Price action - Barras e pernas
+Title: 3 - Básico de price action
 Date: 2022-04-03
-Modified: 2023-09-07
+Modified: 2024-04-15
 Tags: price action, metatrader 5
 
 
-## Componentes do candle
+Usarei aqui barra como sinônimo de candle.  
 
-* O candle representa um período no gráfico. Exemplo: no gráfico de 5 minutos cada candle representa 5 minutos de negociações.
-* O candle é formado por quatro preços: abertura, fechamento, máxima e mínima.  
-* O candle é composto pelo corpo e pelas sombras.  
+## Componentes da barra
+
+* A barra representa um período no gráfico. Exemplo: no gráfico de 5min cada barra representa 5 minutos de negociações.
+* A barra é formada por quatro preços: abertura, fechamento, máxima e mínima.  
+* A barra é dividida em corpo e sombras superior e inferior.  
 * O corpo é a diferença entre abertura e fechamento.  
 * A sombra superior é a diferença entre máxima e fechamento ou máxima e abertura.  
 * A sombra inferior é a diferença entre mínima e abertura ou mínima e fechamento.  
 
 ## Tipos de barras
 
-* No price action chamamos o candle de barra.  
 * A barra pode ser de tendência ou lateral quanto ao tamanho do corpo.  
 * A barra de tendência pode ser um candle com corpo com tamanho acima de 50% do tamanho do candle.
 * A barra lateral ou doji pode ser um candle com sombras cujos tamanhos somados representam mais de 50% do tamanho do candle.  
@@ -24,10 +25,10 @@ Tags: price action, metatrader 5
 * A barra de alta possui fechamento mais alto que a abertura.
 * A barra de baixa possui fechamento mais baixo que a abertura.
 * A barra pode ser ascendente, descendente, interna ou externa quanto às máximas e mínimas.
-* A barra ascendente possui máxima e mínima mais altas que a máxima e mínima da barra anterior.
-* A barra descendente possui máxima e mínima mais baixas que a máxima e mínima da barra anterior.
-* A barra interna possui máxima e mínima contidas na máxima e mínima da barra anterior.
-* A barra externa possui máxima e mínima contendo a máxima e mínima da barra anterior.
+* A barra ascendente (ASC) possui máxima e mínima mais altas que a máxima e mínima da barra anterior.
+* A barra descendente (DESC) possui máxima e mínima mais baixas que a máxima e mínima da barra anterior.
+* A barra interna ou inside bar (IB) possui máxima e mínima contidas na máxima e mínima da barra anterior.
+* A barra externa ou outside bar (Ob) possui máxima e mínima contendo a máxima e mínima da barra anterior.
 
 ## Perna ou movimento
 

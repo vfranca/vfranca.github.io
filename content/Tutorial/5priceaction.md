@@ -2,6 +2,8 @@ Title: 4 - Operando o price action
 Date: 2022-04-01
 Modified: 2023-09-07
 Tags: price action, metatrader 5
+Status: hidden
+
 
 ## Operações de rompimento
 

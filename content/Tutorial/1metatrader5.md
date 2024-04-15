@@ -1,11 +1,9 @@
-Title: 1 - Ferramentas - MetaTrader 5 e mtcli
+Title: 1 - MetaTrader 5
 Date: 2022-04-03
-Modified: 2023-09-07
+Modified: 2024-04-15
 Tags: price action, metatrader 5
 
-## MetaTrader 5
-
-### Atalhos mais importantes
+## Atalhos mais importantes
 | Atalho | Descrição |
 | ---- | --- |
 | CTRL+O | Abre a janela de opções do MetaTrader |
@@ -16,7 +14,7 @@ Tags: price action, metatrader 5
 | F10 | Abre a janela de preços |
 
 
-### Opções básicas
+## Opções básicas
 
 Acessar a janela de opções do MT5 (CTRL + O) e a guia Negociação.  
 Alterar:  
@@ -25,7 +23,7 @@ Alterar:
 * Marcar a opção negociar a um click.  
 
 
-### Perfis
+## Perfis
 
 Recurso do MT5 para salvar um conjunto de gráficos.  
   
@@ -35,7 +33,7 @@ Recurso do MT5 para salvar um conjunto de gráficos.
 | Menu arquivo >> Perfis >> <nome do perfil> | Abre um perfil existente |
 
 
-### Templates
+## Templates
 
 Recurso do MT5 para salvar um conjunto de configurações aplicadas a um gráfico
 
@@ -44,7 +42,7 @@ Recurso do MT5 para salvar um conjunto de configurações aplicadas a um gráfic
 | Menu de contexto >> Templates > salvar template como | Salva um novo template |
 | Menu de contexto >> Templates >> <nome do template> | Abre um template existente |
 
-### Bboleta e tipos de ordens
+## Bboleta e tipos de ordens
 
 Recurso do MT5 para rotear órdens.  
 #### Tipos de Órdens
@@ -60,41 +58,3 @@ Recurso do MT5 para rotear órdens.
 * Sell stop	Venda stop
 * Buy stop limit	Compra stop limitada
 * Sell stop limit	Venda stop limitada
-
-## mtcli
-
-### Comandos disponíveis
-
-* mt bars - exibe os candles de diversas formas.  
-* mt mm - exibe a média móvel simples.  
-* mt rm - exibe o range médio do candle.  
-
-### Os componentes de uma barra
-
-Cada linha do mt bars exibida no terminal do windows representa um candle e exibe as seguintes informações do candle:  
-* Direção: asc, desc, ob, ou ib;  
-* Corpo: range, percentual e tendência;  
-* gap: gap de rompimento do candle anterior;  
-* Sombra: percentual da maior sombra;  
-* Máxima, mínima e fechamento;  
-* Range - tamanho do candle em pontos;  
-* oscilação: variação percentual do fechamento;  
-
-### As diferentes exibições do gráfico
-
-* padrão - gráfico cheio
-* ch - gráfico de máximas e mínimas
-* r - gráfico de ranges
-* c - gráfico de fechamentos
-* h - gráfico de máximas
-* l - gráfico de mínimas
-* var - gráfico de variações percentuais
-* vol - gráfico de volume de negócios
-
-### Medias móveis
-
-mt mm <ativo> - exibe a média móvel aritmética.  
-
-### Ranges
-
-mt rm <ativo> - exibe o range médio de 14 candles.  

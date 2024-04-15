@@ -21,14 +21,10 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="/1-ferramentas-metatrader-5-e-mtcli.html">1 - Ferramentas - MetaTrader 5 e mtcli</a></h1>
+                    <h1 class="entry-title"><a href="/2-mtcli.html">2 - mtcli</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2022-04-03T00:00:00-03:00">
-                Published: dom 03 abril 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2023-09-07T00:00:00-03:00">
-                Updated: qui 07 setembro 2023
+        <abbr class="published" title="2024-04-15T00:00:00-03:00">
+                Published: seg 15 abril 2024
         </abbr>
 
         <address class="vcard author">
@@ -36,8 +32,64 @@
         </address>
 <p>In <a href="/category/tutorial.html">Tutorial</a>.</p>
 <p>tags: <a href="/tag/price-action.html">price action</a> <a href="/tag/metatrader-5.html">metatrader 5</a> </p>
-</footer><!-- /.post-info --><h2>MetaTrader 5</h2>
-<h3>Atalhos mais importantes</h3>
+</footer><!-- /.post-info --><h2>Comandos</h2>
+<ul>
+<li>mt bars - exibe os candles de diversas formas.  </li>
+<li>mt mm - exibe a média móvel simples.  </li>
+<li>mt rm - exibe o range médio do candle.  </li>
+</ul>
+<h2>Os componentes de uma barra</h2>
+<p>Cada linha do mt bars exibida no prompt de comando representa uma barra (candle) e exibe as seguintes informações:<br>
+<em> Direção: asc, desc, ob, ou ib;<br>
+</em> Corpo: range, percentual e tendência;<br>
+<em> gap: gap de rompimento da barra anterior;<br>
+</em> Sombra: percentual da maior sombra;<br>
+<em> Máxima, mínima e fechamento;<br>
+</em> Range - tamanho do candle em pontos;<br>
+* oscilação: variação percentual do fechamento;  </p>
+<h2>As diferentes exibições do gráfico</h2>
+<ul>
+<li>padrão - gráfico cheio</li>
+<li>ch - gráfico de máximas e mínimas</li>
+<li>r - gráfico de ranges</li>
+<li>c - gráfico de fechamentos</li>
+<li>h - gráfico de máximas</li>
+<li>l - gráfico de mínimas</li>
+<li>var - gráfico de variações percentuais</li>
+<li>vol - gráfico de volume de negócios</li>
+</ul>
+<h2>Medias móveis</h2>
+<p>mt mm <ativo> - exibe a média móvel aritmética.  </p>
+<h2>Ranges</h2>
+<p>mt rm <ativo> - exibe o range médio de 14 candles.  </p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/1-metatrader-5.html" rel="bookmark"
+                           title="Permalink to 1 - MetaTrader 5">1 - MetaTrader 5</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2022-04-03T00:00:00-03:00">
+                Published: dom 03 abril 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2024-04-15T00:00:00-03:00">
+                Updated: seg 15 abril 2024
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/valmir-franca.html">Valmir França</a>
+        </address>
+<p>In <a href="/category/tutorial.html">Tutorial</a>.</p>
+<p>tags: <a href="/tag/price-action.html">price action</a> <a href="/tag/metatrader-5.html">metatrader 5</a> </p>
+</footer><!-- /.post-info -->                <h2>Atalhos mais importantes</h2>
 <table>
 <thead>
 <tr>
@@ -72,109 +124,15 @@
 </tr>
 </tbody>
 </table>
-<h3>Opções básicas</h3>
-<p>Acessar a janela de opções do MT5 (CTRL + O) e a guia Negociação.<br>
-Alterar:<br>
-<em> Selecionar o ativo padrão.<br>
-</em> Selecionar o lote padrão.<br>
-* Marcar a opção negociar a um click.  </p>
-<h3>Perfis</h3>
-<p>Recurso do MT5 para salvar um conjunto de gráficos.  </p>
-<table>
-<thead>
-<tr>
-<th>Caminho</th>
-<th>Descrição</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Menu arquivo &gt;&gt; Perfiss &gt;&gt; Salvar perfil como</td>
-<td>Cria novo perfil</td>
-</tr>
-<tr>
-<td>Menu arquivo &gt;&gt; Perfis &gt;&gt; <nome do perfil></td>
-<td>Abre um perfil existente</td>
-</tr>
-</tbody>
-</table>
-<h3>Templates</h3>
-<p>Recurso do MT5 para salvar um conjunto de configurações aplicadas a um gráfico</p>
-<table>
-<thead>
-<tr>
-<th>Caminho</th>
-<th>Descrição</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Menu de contexto &gt;&gt; Templates &gt; salvar template como</td>
-<td>Salva um novo template</td>
-</tr>
-<tr>
-<td>Menu de contexto &gt;&gt; Templates &gt;&gt; <nome do template></td>
-<td>Abre um template existente</td>
-</tr>
-</tbody>
-</table>
-<h3>Bboleta e tipos de ordens</h3>
-<p>Recurso do MT5 para rotear órdens.  </p>
-<h4>Tipos de Órdens</h4>
-<ul>
-<li>a mercado Envia uma órden para ser executada no melhor preço do momento</li>
-<li>pendente  Envia uma órdem para ser executada no futuro</li>
-</ul>
-<h4>Os tipos de órdens pendentes</h4>
-<ul>
-<li>Buy limit Compra limitada</li>
-<li>Sell limite   Venda limitada</li>
-<li>Buy stop  Compra stop</li>
-<li>Sell stop Venda stop</li>
-<li>Buy stop limit    Compra stop limitada</li>
-<li>Sell stop limit   Venda stop limitada</li>
-</ul>
-<h2>mtcli</h2>
-<h3>Comandos disponíveis</h3>
-<ul>
-<li>mt bars - exibe os candles de diversas formas.  </li>
-<li>mt mm - exibe a média móvel simples.  </li>
-<li>mt rm - exibe o range médio do candle.  </li>
-</ul>
-<h3>Os componentes de uma barra</h3>
-<p>Cada linha do mt bars exibida no terminal do windows representa um candle e exibe as seguintes informações do candle:<br>
-<em> Direção: asc, desc, ob, ou ib;<br>
-</em> Corpo: range, percentual e tendência;<br>
-<em> gap: gap de rompimento do candle anterior;<br>
-</em> Sombra: percentual da maior sombra;<br>
-<em> Máxima, mínima e fechamento;<br>
-</em> Range - tamanho do candle em pontos;<br>
-* oscilação: variação percentual do fechamento;  </p>
-<h3>As diferentes exibições do gráfico</h3>
-<ul>
-<li>padrão - gráfico cheio</li>
-<li>ch - gráfico de máximas e mínimas</li>
-<li>r - gráfico de ranges</li>
-<li>c - gráfico de fechamentos</li>
-<li>h - gráfico de máximas</li>
-<li>l - gráfico de mínimas</li>
-<li>var - gráfico de variações percentuais</li>
-<li>vol - gráfico de volume de negócios</li>
-</ul>
-<h3>Medias móveis</h3>
-<p>mt mm <ativo> - exibe a média móvel aritmética.  </p>
-<h3>Ranges</h3>
-<p>mt rm <ativo> - exibe o range médio de 14 candles.  </p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
+<h2>Opções …</h2>
+                <a class="readmore" href="/1-metatrader-5.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
-                    <h1><a href="/2-price-action-barras-e-pernas.html" rel="bookmark"
-                           title="Permalink to 2 - Price action - Barras e pernas">2 - Price action - Barras e pernas</a></h1>
+                    <h1><a href="/3-basico-de-price-action.html" rel="bookmark"
+                           title="Permalink to 3 - Básico de price action">3 - Básico de price action</a></h1>
                 </header>
 
                 <div class="entry-content">
@@ -183,8 +141,8 @@ Alterar:<br>
                 Published: dom 03 abril 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2023-09-07T00:00:00-03:00">
-                Updated: qui 07 setembro 2023
+        <abbr class="modified" title="2024-04-15T00:00:00-03:00">
+                Updated: seg 15 abril 2024
         </abbr>
 
         <address class="vcard author">
@@ -192,111 +150,13 @@ Alterar:<br>
         </address>
 <p>In <a href="/category/tutorial.html">Tutorial</a>.</p>
 <p>tags: <a href="/tag/price-action.html">price action</a> <a href="/tag/metatrader-5.html">metatrader 5</a> </p>
-</footer><!-- /.post-info -->                <h2>Componentes do candle</h2>
+</footer><!-- /.post-info -->                <p>Usarei aqui barra como sinônimo de candle.  </p>
+<h2>Componentes da barra</h2>
 <ul>
-<li>O candle representa um período no gráfico. Exemplo: no gráfico de 5 minutos cada candle representa 5 minutos de negociações.</li>
-<li>O candle é formado por quatro preços: abertura, fechamento, máxima e mínima.  </li>
-<li>O candle é composto pelo corpo e pelas sombras.  </li>
-<li>O corpo é a diferença entre …</li></ul>
-                <a class="readmore" href="/2-price-action-barras-e-pernas.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/3-price-action-ciclo-de-mercado.html" rel="bookmark"
-                           title="Permalink to 3 - Price action - Ciclo de mercado">3 - Price action - Ciclo de mercado</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-04-01T00:00:00-03:00">
-                Published: sex 01 abril 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2023-09-07T00:00:00-03:00">
-                Updated: qui 07 setembro 2023
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/valmir-franca.html">Valmir França</a>
-        </address>
-<p>In <a href="/category/tutorial.html">Tutorial</a>.</p>
-<p>tags: <a href="/tag/price-action.html">price action</a> <a href="/tag/metatrader-5.html">metatrader 5</a> </p>
-</footer><!-- /.post-info -->                <h2>As 4 fases do ciclo de mercado</h2>
-<ul>
-<li>O mercado sempre vai estar ou em lateralidade ou em tendência.  </li>
-<li>A transição entre a lateralidade e a tendência é o rompimento.  </li>
-<li>O rompimento transita para uma tendência menos forte ou canal estreito.  </li>
-<li>O canal estreito transita para uma tendência menos forte ou …</li></ul>
-                <a class="readmore" href="/3-price-action-ciclo-de-mercado.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/4-operando-o-price-action.html" rel="bookmark"
-                           title="Permalink to 4 - Operando o price action">4 - Operando o price action</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-04-01T00:00:00-03:00">
-                Published: sex 01 abril 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2023-09-07T00:00:00-03:00">
-                Updated: qui 07 setembro 2023
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/valmir-franca.html">Valmir França</a>
-        </address>
-<p>In <a href="/category/tutorial.html">Tutorial</a>.</p>
-<p>tags: <a href="/tag/price-action.html">price action</a> <a href="/tag/metatrader-5.html">metatrader 5</a> </p>
-</footer><!-- /.post-info -->                <h2>Operações de rompimento</h2>
-<ul>
-<li>A entrada pode ser feita comprando fechamentos de barras de tendência (by the close).  </li>
-</ul>
-<h2>Operações de canal estreito</h2>
-<ul>
-<li>a entrada pode ser feita comprando acima de barras de correção</li>
-<li>A entrada pode ser feita comprando  abaixo de barras.  </li>
-</ul>
-<h2>Operações de canal amplo</h2>
-<ul>
-<li>A entrada pode ser feita …</li></ul>
-                <a class="readmore" href="/4-operando-o-price-action.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/5-gerenciamento-do-trading.html" rel="bookmark"
-                           title="Permalink to 5 - Gerenciamento do trading">5 - Gerenciamento do trading</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-04-01T00:00:00-03:00">
-                Published: sex 01 abril 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2023-09-07T00:00:00-03:00">
-                Updated: qui 07 setembro 2023
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/valmir-franca.html">Valmir França</a>
-        </address>
-<p>In <a href="/category/tutorial.html">Tutorial</a>.</p>
-<p>tags: <a href="/tag/price-action.html">price action</a> <a href="/tag/metatrader-5.html">metatrader 5</a> </p>
-</footer><!-- /.post-info -->                <p>No longo prazo o day trading visa uma boa equação do trader, nas várias operações, ou seja uma relação lucrativa  entre taxa de acerto e payoff.  </p>
-<h2>Taxa de acerto</h2>
-<ul>
-<li>É a quantidade de operações com lucro sobre o total de operaçõesem um período.  </li>
-<li>A taxa de acerto é dada pela …</li></ul>
-                <a class="readmore" href="/5-gerenciamento-do-trading.html">read more</a>
+<li>A barra representa um período no gráfico. Exemplo: no gráfico de 5min cada barra representa 5 minutos de negociações.</li>
+<li>A barra é formada por quatro preços: abertura, fechamento, máxima e mínima.  </li>
+<li>A barra é dividida em corpo e sombras superior …</li></ul>
+                <a class="readmore" href="/3-basico-de-price-action.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
                 </ol><!-- /#posts-list -->

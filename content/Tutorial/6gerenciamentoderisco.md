@@ -2,6 +2,8 @@ Title: 5 - Gerenciamento do trading
 Date: 2022-04-01
 Modified: 2023-09-07
 Tags: price action, metatrader 5
+Status: hidden
+
 
 No longo prazo o day trading visa uma boa equação do trader, nas várias operações, ou seja uma relação lucrativa  entre taxa de acerto e payoff.  
 
