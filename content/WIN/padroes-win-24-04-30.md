@@ -1,0 +1,10 @@
+Title: Padrões do dia 30 ABR 2024 WIN
+Date: 2024-05-01
+Tags: mini-índice, WIN, price action, padrões
+  
+Destaque para tendência de escada após rompimento da lateralidade na abertura.
+    
+1. BANDEIRA DE BAIXA EM CUNHA
+2. ROMPIMENTO E CANAL DE BAIXA
+
+[Clique aqui para baixar os gráficos em texto]({attach}/padroes/WIN-24-04-30.zip)

@@ -1,5 +1,6 @@
-Title: Padrões do dia WIN 16 ABR 2024
+Title: Padrões do dia 16 ABR 2024 WIN
 Date: 2024-04-16
+Modified: 2024-05-01
 Tags: mini-índice, WIN, price action, padrões
 
 Seguem os padrões de price action de hoje:  
@@ -12,4 +13,4 @@ Seguem os padrões de price action de hoje:
 6. rompimento e canal de baixa
 7. fundo duplo
   
-[Clique aqui para baixar os gráficos]({attach}/padroes/win-24-04-16.zip)
+[Clique aqui para baixar os gráficos em texto]({attach}/padroes/win-24-04-16.zip)
