@@ -1,0 +1,15 @@
+Title: Padrões WIN 22 MAI 24
+Date: 2024-05-25
+Tags: mini-índice, WIN, price action, padrões
+
+Dia de tendência desde a abertura.  
+
+* manhã - B1 de rompimento e  canal amplo de baixa
+* meio do dia - lateralidade
+* tarde - canal amplo de baixa com fechamento próximo da mínima do dia
+PADRÕES
+1. rompimento e canal de baixa
+canal amplo de baixa
+2. rompimento e canal de baixa
+  
+[Clique aqui para baixar os gráficos em texto]({attach}/padroes/WIN-24-05-22.zip)
