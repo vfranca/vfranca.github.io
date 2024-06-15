@@ -1,0 +1,12 @@
+Title: PADROES WIN 14 JUN 24
+Date: 2024-06-15
+Tags: mini-índice, WIN, price action, padrões
+
+DIA DE REVERSÃO
+  
+1. reversão na abertura / bandeira final de alta  
+2. rompimento e canal de baixa / microcanal de baixa  
+3. bandeira final de baixa  
+4. rompimento e canal de alta  
+  
+[Clique aqui para baixar os gráficos em texto]({attach}/padroes/WIN-24-06-14.zip)
