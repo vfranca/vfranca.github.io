@@ -1,0 +1,11 @@
+Title: PADROES WIN 18 JUN 24
+Date: 2024-06-19
+Tags: mini-índice, WIN, price action, padrões
+
+DIA DE REVERSÃO
+  
+1. reversão na abertura / fundo duplo  
+2. rompimento e canal de alta / canal amplo de alta  
+3. clímax de alta  
+  
+[Clique aqui para baixar os gráficos em texto]({attach}/padroes/WIN 24-06-18.zip)
