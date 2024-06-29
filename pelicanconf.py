@@ -3,7 +3,7 @@
 
 AUTHOR = 'Valmir França'
 SITENAME = 'Price Action Acessível'
-SITEURL = ''
+SITEURL = 'https://vfranca.github.io'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
@@ -14,7 +14,7 @@ DEFAULT_LANG = 'pt_BR'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = "feeds.atom"
-CATEGORY_FEED_ATOM = "feeds/%s.atom"
+CATEGORY_FEED_ATOM = "feeds/{slug}.atom"
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None

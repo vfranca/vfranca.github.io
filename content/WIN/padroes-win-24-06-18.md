@@ -1,4 +1,5 @@
 Title: PADROES WIN 18 JUN 24
+Slug: padroes-win-24-06-18
 Date: 2024-06-19
 Tags: mini-índice, WIN, price action, padrões
 

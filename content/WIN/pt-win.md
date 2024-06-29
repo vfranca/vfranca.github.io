@@ -1,6 +1,7 @@
 Title: Plano de Trading WIN
 Date: 2023-10-02
 Modified: 2024-04-15
+Status: hidden
 Tags: mini-índice, WIN, plano de trading
 
 ## gerenciamento de risco
