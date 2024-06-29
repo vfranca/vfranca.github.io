@@ -4,6 +4,7 @@
 AUTHOR = 'Valmir França'
 SITENAME = 'Price Action Acessível'
 SITEURL = 'https://vfranca.github.io'
+RELATIVE_URLS = True
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
