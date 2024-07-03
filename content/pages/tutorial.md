@@ -2,7 +2,7 @@ Title: Tutorial
 Slug: tutorial
 Date: 2024-07-02
 Tags: price action, metatrader 5, mtcli, price action
-Status: published
+Status: draft
 
 1. METATRADER 5
 
