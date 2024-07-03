@@ -2,6 +2,7 @@ Title: 3 - Básico de price action
 Date: 2022-04-03
 Modified: 2024-04-15
 Tags: price action, metatrader 5
+Status: hidden
 
 
 Usarei aqui barra como sinônimo de candle.  

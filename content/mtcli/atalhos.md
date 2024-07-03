@@ -2,7 +2,7 @@ Title: Atalhos de comandos
 Date: 2021-10-17
 Modified: 2024-04-15
 Tags: mtcli, atalhos de comandos, workspace
-Status: published
+Status: draft
 
 | Atalho | Comando | Descrição | Indicado para |
 | ---- | ---- | ----- | --- |

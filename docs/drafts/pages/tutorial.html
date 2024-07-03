@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="generator" content="Pelican" />
+        <title>Tutorial</title>
+        <link rel="stylesheet" href="../../theme/css/main.css" />
+        <link href="https://vfranca.github.io/feeds.atom" type="application/atom+xml" rel="alternate" title="Price Action Acessível Atom Feed" />
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="../../">Price Action Acessível</a></h1>
+                <nav><ul>
+                    <li><a href="../../category/mtcli.html">mtcli</a></li>
+                    <li><a href="../../category/win.html">WIN</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+    <h1 class="entry-title">Tutorial</h1>
+    
+    <ol>
+<li>METATRADER 5</li>
+</ol>
+<p>1.1 Atalhos de teclado.</p>
+<table>
+<thead>
+<tr>
+<th>Atalho</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CTRL+O</td>
+<td>Abre a janela de opções do MetaTrader</td>
+</tr>
+<tr>
+<td>CTRL+U</td>
+<td>Abre a janela de ativos</td>
+</tr>
+<tr>
+<td>CTRL+I</td>
+<td>Abre a janela de indicadores</td>
+</tr>
+<tr>
+<td>F9</td>
+<td>Abre a janela da boleta</td>
+</tr>
+<tr>
+<td>CTRL+F9</td>
+<td>Abre a caixa de informações da conta</td>
+</tr>
+<tr>
+<td>F10</td>
+<td>Abre a janela de preços</td>
+</tr>
+</tbody>
+</table>
+<p>1.2 Opções básicas</p>
+<p>Acessar a janela de opções do MT5 (CTRL + O) e a guia Negociação.<br>
+Alterar:<br>
+<em> Selecionar o ativo padrão.<br>
+</em> Selecionar o lote padrão.<br>
+* Marcar a opção negociar a um click.  </p>
+<p>1.3 Perfis</p>
+<p>Recurso do MT5 para salvar um conjunto de gráficos.  </p>
+<table>
+<thead>
+<tr>
+<th>Caminho</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Menu arquivo &gt;&gt; Perfiss &gt;&gt; Salvar perfil como</td>
+<td>Cria novo perfil</td>
+</tr>
+<tr>
+<td>Menu arquivo &gt;&gt; Perfis &gt;&gt; <nome do perfil></td>
+<td>Abre um perfil existente</td>
+</tr>
+</tbody>
+</table>
+<p>1.4 Templates</p>
+<p>Recurso do MT5 para salvar um conjunto de configurações aplicadas a um gráfico</p>
+<table>
+<thead>
+<tr>
+<th>Caminho</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Menu de contexto &gt;&gt; Templates &gt; salvar template como</td>
+<td>Salva um novo template</td>
+</tr>
+<tr>
+<td>Menu de contexto &gt;&gt; Templates &gt;&gt; <nome do template></td>
+<td>Abre um template existente</td>
+</tr>
+</tbody>
+</table>
+<p>1.5 Boleta</p>
+<p>Recurso do MT5 para rotear órdens.  </p>
+<p>Tipos de Ordens:</p>
+<ul>
+<li>a mercado Envia uma órden para ser executada no melhor preço do momento</li>
+<li>Buy limit Compra limitada</li>
+<li>Sell limite   Venda limitada</li>
+<li>Buy stop  Compra stop</li>
+<li>Sell stop Venda stop</li>
+<li>Buy stop limit    Compra stop limitada</li>
+<li>
+<p>Sell stop limit   Venda stop limitada</p>
+</li>
+<li>
+<p>MTCLI</p>
+</li>
+</ul>
+<p>2.1 Comandos</p>
+<ul>
+<li>mt bars - exibe os candles de diversas formas.  </li>
+<li>mt mm - exibe a média móvel simples.  </li>
+<li>mt rm - exibe o range médio do candle.  </li>
+</ul>
+<p>2.2 Os componentes de uma barra</p>
+<p>Cada linha do mt bars exibida no prompt de comando representa uma barra (candle) e exibe as seguintes informações:<br>
+<em> Direção: asc, desc, ob, ou ib;<br>
+</em> Corpo: range, percentual e tendência;<br>
+<em> gap: gap de rompimento da barra anterior;<br>
+</em> Sombra: percentual da maior sombra;<br>
+<em> Máxima, mínima e fechamento;<br>
+</em> Range - tamanho do candle em pontos;<br>
+* oscilação: variação percentual do fechamento;  </p>
+<p>2.3 As diferentes exibições do gráfico</p>
+<ul>
+<li>padrão - gráfico cheio</li>
+<li>ch - gráfico de máximas e mínimas</li>
+<li>r - gráfico de ranges</li>
+<li>c - gráfico de fechamentos</li>
+<li>h - gráfico de máximas</li>
+<li>l - gráfico de mínimas</li>
+<li>var - gráfico de variações percentuais</li>
+<li>vol - gráfico de volume de negócios</li>
+</ul>
+<p>2.5 Medias móveis</p>
+<p>mt mm <ativo> - exibe a média móvel aritmética.  </p>
+<p>2.6 Ranges</p>
+<p>mt rm <ativo> - exibe o range médio de 14 candles.  </p>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>links</h2>
+                        <ul>
+                            <li><a href="https://pypi.org/project/mtcli/">mtcli</a></li>
+                            <li><a href="https://www.metatrader5.com/pt">MetaTrader 5</a></li>
+                            <li><a href="https://www.priceaction.com.br">Portal Price Action</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="https://vfranca.github.io/feeds.atom" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="https://t.me/operandonoescuro">Telegram</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a rel="nofollow" href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a rel="nofollow" href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

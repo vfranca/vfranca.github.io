@@ -10,7 +10,7 @@ PATH = 'content'
 OUTPUT_PATH = 'docs'
 
 TIMEZONE = 'America/Sao_Paulo'
-DEFAULT_LANG = 'pt'
+DEFAULT_LANG = 'pt-BR'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = "feeds.atom"

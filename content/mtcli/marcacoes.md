@@ -2,7 +2,7 @@ Title: Marcações
 Date: 2021-10-17
 Modified: 2024-04-15
 Tags: mtcli, marcações, workspace
-Status: published
+Status: draft
 
 
 As marcações são anotações que podem ser gravadas no prompt de comandos.  

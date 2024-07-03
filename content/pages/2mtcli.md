@@ -1,6 +1,7 @@
 Title: 2 - mtcli
 Date: 2024-04-15
 Tags: price action, metatrader 5
+Status: hidden
 
 ## Comandos
 

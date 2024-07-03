@@ -4,53 +4,52 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="generator" content="Pelican" />
-        <title>Padrões WIN 22 MAI 24</title>
-        <link rel="stylesheet" href="./theme/css/main.css" />
+        <title>2 - mtcli</title>
+        <link rel="stylesheet" href="../theme/css/main.css" />
         <link href="https://vfranca.github.io/feeds.atom" type="application/atom+xml" rel="alternate" title="Price Action Acessível Atom Feed" />
-        <meta name="description" content="Dia de tendência desde a abertura. manhã - B1 de rompimento e canal amplo de baixa meio do dia - lateralidade tarde - canal amplo de baixa com..." />
 </head>
 
 <body id="index" class="home">
         <header id="banner" class="body">
-                <h1><a href="./">Price Action Acessível</a></h1>
+                <h1><a href="../">Price Action Acessível</a></h1>
                 <nav><ul>
-                    <li><a href="./pages/tutorial.html">Tutorial</a></li>
-                    <li class="active"><a href="./category/win.html">WIN</a></li>
+                    <li><a href="../pages/tutorial.html">Tutorial</a></li>
+                    <li><a href="../category/win.html">WIN</a></li>
                 </ul></nav>
         </header><!-- /#banner -->
 <section id="content" class="body">
-  <article>
-    <header>
-      <h1 class="entry-title">
-        <a href="./padroes-win-22-mai-24.html" rel="bookmark"
-           title="Permalink to Padrões WIN 22 MAI 24">Padrões WIN 22 MAI 24</a></h1>
-    </header>
-
-    <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2024-05-25T00:00:00-03:00">
-                Published: sáb 25 maio 2024
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="./author/valmir-franca.html">Valmir França</a>
-        </address>
-<p>In <a href="./category/win.html">WIN</a>.</p>
-<p>tags: <a href="./tag/mini-indice.html">mini-índice</a> <a href="./tag/win.html">WIN</a> <a href="./tag/price-action.html">price action</a> <a href="./tag/padroes.html">padrões</a> </p>
-</footer><!-- /.post-info -->      <p>Dia de tendência desde a abertura.  </p>
+    <h1 class="entry-title">2 - mtcli</h1>
+    
+    <h2>Comandos</h2>
 <ul>
-<li>manhã - B1 de rompimento e  canal amplo de baixa</li>
-<li>meio do dia - lateralidade</li>
-<li>tarde - canal amplo de baixa com fechamento próximo da mínima do dia
-PADRÕES</li>
-<li>rompimento e canal de baixa
-canal amplo de baixa</li>
-<li>rompimento e canal de baixa</li>
+<li>mt bars - exibe os candles de diversas formas.  </li>
+<li>mt mm - exibe a média móvel simples.  </li>
+<li>mt rm - exibe o range médio do candle.  </li>
 </ul>
-<p><a href="./WIN-24-05-22.zip">Clique aqui para baixar os gráficos em texto</a></p>
-    </div><!-- /.entry-content -->
-
-  </article>
+<h2>Os componentes de uma barra</h2>
+<p>Cada linha do mt bars exibida no prompt de comando representa uma barra (candle) e exibe as seguintes informações:<br>
+<em> Direção: asc, desc, ob, ou ib;<br>
+</em> Corpo: range, percentual e tendência;<br>
+<em> gap: gap de rompimento da barra anterior;<br>
+</em> Sombra: percentual da maior sombra;<br>
+<em> Máxima, mínima e fechamento;<br>
+</em> Range - tamanho do candle em pontos;<br>
+* oscilação: variação percentual do fechamento;  </p>
+<h2>As diferentes exibições do gráfico</h2>
+<ul>
+<li>padrão - gráfico cheio</li>
+<li>ch - gráfico de máximas e mínimas</li>
+<li>r - gráfico de ranges</li>
+<li>c - gráfico de fechamentos</li>
+<li>h - gráfico de máximas</li>
+<li>l - gráfico de mínimas</li>
+<li>var - gráfico de variações percentuais</li>
+<li>vol - gráfico de volume de negócios</li>
+</ul>
+<h2>Medias móveis</h2>
+<p>mt mm <ativo> - exibe a média móvel aritmética.  </p>
+<h2>Ranges</h2>
+<p>mt rm <ativo> - exibe o range médio de 14 candles.  </p>
 </section>
         <section id="extras" class="body">
                 <div class="blogroll">
