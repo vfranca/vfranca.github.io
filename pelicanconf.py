@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Valmir França'
-SITENAME = 'Price Action Acessível'
+SITENAME = 'Blog mtcli'
 SITEURL = 'https://vfranca.github.io'
 RELATIVE_URLS = True
 
