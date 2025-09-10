@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog mtcli - Ferramentas</title><link href="https://vfranca.github.io/" rel="alternate"></link><link href="https://vfranca.github.io/feeds/ferramentas.atom" rel="self"></link><id>https://vfranca.github.io/</id><updated>2025-09-10T00:00:00-03:00</updated><entry><title>Editando Configurações com `mt conf` no MTCLI</title><link href="https://vfranca.github.io/mtcli-conf.html" rel="alternate"></link><published>2025-09-10T00:00:00-03:00</published><updated>2025-09-10T00:00:00-03:00</updated><author><name>Valmir França da Silva</name></author><id>tag:vfranca.github.io,2025-09-10:/mtcli-conf.html</id><summary type="html">&lt;p&gt;Aprenda a gerenciar suas configurações no MTCLI com o comando &lt;code&gt;mt conf&lt;/code&gt;, de forma simples e eficiente.&lt;/p&gt;</summary><content type="html">&lt;p&gt;O MTCLI permite agora gerenciar o arquivo &lt;code&gt;mtcli.ini&lt;/code&gt; diretamente pela linha de comando com o subcomando &lt;code&gt;conf&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;O que é &lt;code&gt;mtcli.ini&lt;/code&gt;?&lt;/p&gt;
+&lt;p&gt;É o arquivo onde ficam armazenadas configurações que o MTCLI utiliza, como símbolo padrão, número de dígitos, etc. Ele deve estar na mesma pasta onde o comando é executado.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Usando &lt;code&gt;mt conf&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;Ver todas as configurações:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--list
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Obter o valor de uma configuração:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--get&lt;span class="w"&gt; &lt;/span&gt;CHAVE
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Definir/alterar o valor de uma configuração:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--set&lt;span class="w"&gt; &lt;/span&gt;CHAVE&lt;span class="w"&gt; &lt;/span&gt;VALOR
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Restaurar as configurações padrão:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--reset
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;Exemplo:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--set&lt;span class="w"&gt; &lt;/span&gt;period&lt;span class="w"&gt; &lt;/span&gt;D1
+mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--get&lt;span class="w"&gt; &lt;/span&gt;period
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;Dica&lt;/h2&gt;
+&lt;p&gt;Evite editar o arquivo &lt;code&gt;mtcli.ini&lt;/code&gt; manualmente. O comando &lt;code&gt;mt conf&lt;/code&gt; valida e organiza tudo para você.  &lt;/p&gt;</content><category term="Ferramentas"></category><category term="mtcli"></category><category term="config"></category><category term="cli"></category></entry></feed>
