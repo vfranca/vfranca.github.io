@@ -1,16 +1,16 @@
 Title: Editando Configurações com `mt conf` no MTCLI
 Date: 2025-09-10
-Category: Ferramentas
+Category: mtcli
 Tags: mtcli, config, cli
 Slug: mtcli-conf
 Author: Valmir França da Silva
 Summary: Aprenda a gerenciar suas configurações no MTCLI com o comando `mt conf`, de forma simples e eficiente.
 
-O MTCLI permite agora gerenciar o arquivo `mtcli.ini` diretamente pela linha de comando com o subcomando `conf`.
+O MTCLI permite gerenciar o arquivo `mtcli.ini` diretamente pela linha de comando com o subcomando `conf`.
   
 O que é `mtcli.ini`?
   
-É o arquivo onde ficam armazenadas configurações que o MTCLI utiliza, como símbolo padrão, número de dígitos, etc. Ele deve estar na mesma pasta onde o comando é executado.
+É o arquivo onde ficam armazenadas configurações que o MTCLI utiliza, como timeframe, número de dígitos, etc. Ele deve estar na mesma pasta onde o comando é executado.
   
 ---
   
