@@ -3,7 +3,7 @@ Date: 2025-09-10
 Category: mtcli
 Tags: mtcli, config, cli
 Slug: mtcli-conf
-Author: Valmir França da Silva
+Author: Valmir França
 Summary: Aprenda a gerenciar suas configurações no MTCLI com o comando `mt conf`, de forma simples e eficiente.
 
 O MTCLI permite gerenciar o arquivo `mtcli.ini` diretamente pela linha de comando com o subcomando `conf`.

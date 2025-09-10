@@ -24,7 +24,60 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="../recap-ger40-24-08-19.html">RECAP GER40 19 AGO 24</a></h1>
+                    <h1 class="entry-title"><a href="../mtcli-conf.html">Editando Configurações com `mt conf` no MTCLI</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2025-09-10T00:00:00-03:00">
+                Published: qua 10 setembro 2025
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="../author/valmir-franca.html">Valmir França</a>
+        </address>
+<p>In <a href="../category/mtcli.html">mtcli</a>.</p>
+<p>tags: <a href="../tag/mtcli.html">mtcli</a> <a href="../tag/config.html">config</a> <a href="../tag/cli.html">cli</a> </p>
+</footer><!-- /.post-info --><p>O MTCLI permite gerenciar o arquivo <code>mtcli.ini</code> diretamente pela linha de comando com o subcomando <code>conf</code>.</p>
+<p>O que é <code>mtcli.ini</code>?</p>
+<p>É o arquivo onde ficam armazenadas configurações que o MTCLI utiliza, como timeframe, número de dígitos, etc. Ele deve estar na mesma pasta onde o comando é executado.</p>
+<hr>
+<h2>Usando <code>mt conf</code></h2>
+<p>Ver todas as configurações:</p>
+<div class="highlight"><pre><span></span><code>mt<span class="w"> </span>conf<span class="w"> </span>--list
+</code></pre></div>
+
+<p>Obter o valor de uma configuração:</p>
+<div class="highlight"><pre><span></span><code>mt<span class="w"> </span>conf<span class="w"> </span>--get<span class="w"> </span>CHAVE
+</code></pre></div>
+
+<p>Definir/alterar o valor de uma configuração:</p>
+<div class="highlight"><pre><span></span><code>mt<span class="w"> </span>conf<span class="w"> </span>--set<span class="w"> </span>CHAVE<span class="w"> </span>VALOR
+</code></pre></div>
+
+<p>Restaurar as configurações padrão:</p>
+<div class="highlight"><pre><span></span><code>mt<span class="w"> </span>conf<span class="w"> </span>--reset
+</code></pre></div>
+
+<hr>
+<p>Exemplo:</p>
+<div class="highlight"><pre><span></span><code>mt<span class="w"> </span>conf<span class="w"> </span>--set<span class="w"> </span>period<span class="w"> </span>D1
+mt<span class="w"> </span>conf<span class="w"> </span>--get<span class="w"> </span>period
+</code></pre></div>
+
+<hr>
+<h2>Dica</h2>
+<p>Evite editar o arquivo <code>mtcli.ini</code> manualmente. O comando <code>mt conf</code> valida e organiza tudo para você.  </p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="../recap-ger40-24-08-19.html" rel="bookmark"
+                           title="Permalink to RECAP GER40 19 AGO 24">RECAP GER40 19 AGO 24</a></h1>
+                </header>
+
+                <div class="entry-content">
 <footer class="post-info">
         <abbr class="published" title="2024-08-19T00:00:00-03:00">
                 Published: seg 19 agosto 2024
@@ -35,17 +88,15 @@
         </address>
 <p>In <a href="../category/ger40.html">GER40</a>.</p>
 <p>tags: <a href="../tag/dax.html">DAX</a> <a href="../tag/ger40.html">GER40</a> <a href="../tag/cfd.html">CFD</a> <a href="../tag/padroes.html">padrões</a> <a href="../tag/recap.html">recap</a> </p>
-</footer><!-- /.post-info --><p>Dia de tendência</p>
+</footer><!-- /.post-info -->                <p>Dia de tendência</p>
 <ol>
 <li>reversão na abertura / wedge de fundo (WGB)  </li>
 <li>rompimento e canal de alta (SCU)  </li>
 </ol>
-<p><a href="../GER40 19 AGO 24.zip">Clique aqui para baixar os gráficos em texto</a></p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
+<p><a href="../GER40 19 AGO 24.zip">Clique aqui para baixar os gráficos em texto</a></p>
+                <a class="readmore" href="../recap-ger40-24-08-19.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
@@ -292,7 +343,6 @@ canal amplo de baixa</li>
                         <ul>
                             <li><a href="https://pypi.org/project/mtcli/">mtcli</a></li>
                             <li><a href="https://www.metatrader5.com/pt">MetaTrader 5</a></li>
-                            <li><a href="https://www.priceaction.com.br">Portal Price Action</a></li>
                         </ul>
                 </div><!-- /.blogroll -->
                 <div class="social">
