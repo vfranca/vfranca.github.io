@@ -1,6 +1,7 @@
 Title: Como Criei um Plugin OBV com Python e MetaTrader 5
 Date: 2025-09-03 14:00
 Modified: 2025-09-03 14:30
+Status: draft
 Category: Programação
 Tags: python, metatrader5, trading, cli, obv, mtcli
 Slug: plugin-obv-python-mt5
