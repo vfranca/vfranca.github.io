@@ -1,6 +1,7 @@
 Title:  O IBOV e a conjuntura do mercado
 Date: 2025-09-03
 Modified: 2025-09-03
+Status: draft
 Category: Mercado
 Tags: IBOV, mercado financeiro, política, eleições 2026, brasil
 Slug: ibov-e-a-conjuntura-politica
