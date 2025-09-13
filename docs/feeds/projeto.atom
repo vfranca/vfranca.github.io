@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog mtcli - Projeto</title><link href="https://vfranca.github.io/" rel="alternate"></link><link href="https://vfranca.github.io/feeds/projeto.atom" rel="self"></link><id>https://vfranca.github.io/</id><updated>2025-09-11T00:00:00-03:00</updated><entry><title>Apoie o mtcli com doações voluntárias</title><link href="https://vfranca.github.io/apoio-mtcli.html" rel="alternate"></link><published>2025-09-11T00:00:00-03:00</published><updated>2025-09-11T00:00:00-03:00</updated><author><name>Valmir França da Silva</name></author><id>tag:vfranca.github.io,2025-09-11:/apoio-mtcli.html</id><summary type="html">&lt;p&gt;Saiba como contribuir financeiramente com o desenvolvimento do mtcli.&lt;/p&gt;</summary><content type="html">&lt;p&gt;O mtcli é um projeto de código aberto focado em facilitar o uso do MetaTrader 5 via linha de comando, especialmente para traders que buscam automação, agilidade e produtividade.&lt;/p&gt;
+&lt;p&gt;O projeto é mantido de forma independente e gratuita — sem vínculo com empresas ou instituições.&lt;/p&gt;
+&lt;p&gt;Se o mtcli tem sido útil para você ou para sua equipe, considere apoiar financeiramente com uma doação.&lt;br&gt;
+Esse gesto ajuda a manter o projeto ativo, atualizado e com novos recursos.&lt;/p&gt;
+&lt;p&gt;💰 Como doar&lt;/p&gt;
+&lt;p&gt;Você pode contribuir de forma segura e voluntária por meio das seguintes plataformas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://apoia.se/mtcli"&gt;apoia.se/mtcli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://picpay.me/mtcli"&gt;picpay.me/mtcli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://opencollective.com/mtcli"&gt;opencollective.com/mtcli&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As contribuições são:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100% voluntárias&lt;/li&gt;
+&lt;li&gt;Sem contrapartidas comerciais&lt;/li&gt;
+&lt;li&gt;Sem funcionalidades pagas&lt;/li&gt;
+&lt;li&gt;Sem cobrança recorrente obrigatória
+O projeto continuará sendo livre e acessível a todos, com ou sem doações.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙏 Obrigado&lt;/p&gt;
+&lt;p&gt;Toda forma de apoio, seja com código, divulgação ou doações, é bem-vinda.&lt;br&gt;
+Agradeço a confiança no mtcli — e seguimos juntos!&lt;/p&gt;</content><category term="Projeto"></category><category term="mtcli"></category><category term="doação"></category><category term="open source"></category><category term="financiamento coletivo"></category></entry></feed>

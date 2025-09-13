@@ -28,13 +28,15 @@
 &lt;p&gt;bash
 pip install mtcli&lt;/p&gt;
 &lt;p&gt;Ou clonando o repositório:&lt;/p&gt;
-&lt;p&gt;bash
-git clone https://github.com/vfranca/mtcli.git
-cd mtcli
-poetry install&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;git&lt;span class="w"&gt; &lt;/span&gt;clone&lt;span class="w"&gt; &lt;/span&gt;https://github.com/vfranca/mtcli.git
+&lt;span class="nb"&gt;cd&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;mtcli
+poetry&lt;span class="w"&gt; &lt;/span&gt;install
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
 &lt;p&gt;Para executar:&lt;/p&gt;
-&lt;p&gt;bash
-mt grafico --symbol WINV25 --periods 100&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;grafico&lt;span class="w"&gt; &lt;/span&gt;--symbol&lt;span class="w"&gt; &lt;/span&gt;WINV25&lt;span class="w"&gt; &lt;/span&gt;--periods&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;100&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
 &lt;hr&gt;
 &lt;p&gt;Documentação&lt;/p&gt;
 &lt;p&gt;A documentação está disponível em:&lt;/p&gt;
@@ -45,6 +47,4 @@ mt grafico --symbol WINV25 --periods 100&lt;/p&gt;
 &lt;p&gt;Repositório:&lt;br&gt;
 &lt;em&gt;&lt;a href="https://github.com/vfranca/mtcli"&gt;https://github.com/vfranca/mtcli&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Se você é uma pessoa cega ou conhece alguém que busca mais autonomia no mercado financeiro, o mtcli foi feito com esse propósito.&lt;/p&gt;
-&lt;p&gt;```
-Se quiser, posso gerar também um index.rst ou conteúdo de docs/README.md com base nesse texto.&lt;/p&gt;</content><category term="Projetos"></category><category term="mtcli"></category><category term="metatrader5"></category><category term="acessibilidade"></category><category term="cli"></category><category term="python"></category><category term="trading"></category></entry></feed>
+&lt;p&gt;Se você é uma pessoa cega ou conhece alguém que busca mais autonomia no mercado financeiro, o mtcli foi feito com esse propósito.&lt;/p&gt;</content><category term="Projetos"></category><category term="mtcli"></category><category term="metatrader5"></category><category term="acessibilidade"></category><category term="cli"></category><category term="python"></category><category term="trading"></category></entry></feed>

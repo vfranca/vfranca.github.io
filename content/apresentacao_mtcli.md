@@ -47,17 +47,17 @@ pip install mtcli
 
 Ou clonando o repositório:
 
-bash
+```bash
 git clone https://github.com/vfranca/mtcli.git
 cd mtcli
 poetry install
-
+```
 
 Para executar:
 
-bash
+```bash
 mt grafico --symbol WINV25 --periods 100
-
+```
 
 ---
 
@@ -79,6 +79,3 @@ Repositório:
 ---
 
 Se você é uma pessoa cega ou conhece alguém que busca mais autonomia no mercado financeiro, o mtcli foi feito com esse propósito.
-
-```
-Se quiser, posso gerar também um index.rst ou conteúdo de docs/README.md com base nesse texto.
