@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog mtcli - Valmir França da Silva</title><link href="https://vfranca.github.io/" rel="alternate"></link><link href="https://vfranca.github.io/feeds/valmir-franca-da-silva.atom.xml" rel="self"></link><id>https://vfranca.github.io/</id><updated>2025-09-03T15:00:00-03:00</updated><entry><title>mtcli — Acessibilidade e Análise Técnica no Terminal</title><link href="https://vfranca.github.io/apresentando-mtcli.html" rel="alternate"></link><published>2025-09-03T15:00:00-03:00</published><updated>2025-09-03T15:00:00-03:00</updated><author><name>Valmir França da Silva</name></author><id>tag:vfranca.github.io,2025-09-03:/apresentando-mtcli.html</id><summary type="html">&lt;p&gt;Conheça o mtcli, uma interface de linha de comando para o MetaTrader 5, desenvolvida com foco em acessibilidade para pessoas cegas ou com baixa visão.&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;p&gt;O que é o mtcli?&lt;/p&gt;
+&lt;p&gt;O mtcli é um aplicativo CLI (Command-Line Interface) desenvolvido em Python para interação acessível com dados de mercado do MetaTrader 5. Seu principal objetivo é permitir que traders com deficiência visual possam acessar gráficos, indicadores técnicos e informações da conta de forma navegável e textual, totalmente compatível com leitores de tela.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A quem se destina?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pessoas cegas ou com baixa visão, que enfrentam dificuldades com interfaces gráficas complexas.&lt;/li&gt;
+&lt;li&gt;Traders que preferem o terminal ou querem integrar dados do MetaTrader em scripts automatizados.&lt;/li&gt;
+&lt;li&gt;Desenvolvedores e entusiastas que buscam uma forma leve e extensível de interagir com o MetaTrader 5.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Recursos principais
+- ✅ Acesso aos candles do MetaTrader 5 com navegação tecla por tecla.
+- ✅ Exibição de padrões de velas com descrição acessível.
+- ✅ Indicadores embutidos e plugins opcionais:
+  - Médias móveis
+  - Volume médio
+  - Range médio
+  - OBV (On Balance Volume)
+- ✅ Exportação para CSV.
+- ✅ Plugins extensíveis via arquitetura modular.
+- ✅ Suporte a ambientes virtuais com poetry.
+- ✅ Compatibilidade com leitores de tela como NVDA e JAWS.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Como obter e instalar&lt;/p&gt;
+&lt;p&gt;Você pode instalar o mtcli diretamente do PyPI:&lt;/p&gt;
+&lt;p&gt;bash
+pip install mtcli&lt;/p&gt;
+&lt;p&gt;Ou clonando o repositório:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;git&lt;span class="w"&gt; &lt;/span&gt;clone&lt;span class="w"&gt; &lt;/span&gt;https://github.com/vfranca/mtcli.git
+&lt;span class="nb"&gt;cd&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;mtcli
+poetry&lt;span class="w"&gt; &lt;/span&gt;install
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Para executar:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;grafico&lt;span class="w"&gt; &lt;/span&gt;--symbol&lt;span class="w"&gt; &lt;/span&gt;WINV25&lt;span class="w"&gt; &lt;/span&gt;--periods&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;100&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;Documentação&lt;/p&gt;
+&lt;p&gt;A documentação está disponível em:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href="https://vfranca.github.io/mtcli"&gt;https://vfranca.github.io/mtcli&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Contribua!&lt;/p&gt;
+&lt;p&gt;O projeto é livre (GPLv3) e aberto a contribuições. Seja para desenvolvimento, testes ou sugestões de usabilidade acessível.&lt;/p&gt;
+&lt;p&gt;Repositório:&lt;br&gt;
+&lt;em&gt;&lt;a href="https://github.com/vfranca/mtcli"&gt;https://github.com/vfranca/mtcli&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Se você é uma pessoa cega ou conhece alguém que busca mais autonomia no mercado financeiro, o mtcli foi feito com esse propósito.&lt;/p&gt;</content><category term="Projetos"></category><category term="mtcli"></category><category term="metatrader5"></category><category term="acessibilidade"></category><category term="cli"></category><category term="python"></category><category term="trading"></category></entry></feed>

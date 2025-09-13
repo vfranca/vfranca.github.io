@@ -1,103 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Price Action Acessível - mtcli</title><link href="https://vfranca.github.io/" rel="alternate"></link><link href="https://vfranca.github.io/feeds/mtcli.atom.xml" rel="self"></link><id>https://vfranca.github.io/</id><updated>2024-04-15T00:00:00-03:00</updated><entry><title>Atalhos de comandos</title><link href="https://vfranca.github.io/atalhos-de-comandos.html" rel="alternate"></link><published>2021-10-17T00:00:00-03:00</published><updated>2024-04-15T00:00:00-03:00</updated><author><name>Valmir França</name></author><id>tag:vfranca.github.io,2021-10-17:/atalhos-de-comandos.html</id><summary type="html">&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Atalho&lt;/th&gt;
-&lt;th&gt;Comando&lt;/th&gt;
-&lt;th&gt;Descrição&lt;/th&gt;
-&lt;th&gt;Indicado para&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;dd1&lt;/td&gt;
-&lt;td&gt;mt bars &lt;ticker&gt; -p daily&lt;/td&gt;
-&lt;td&gt;gráfico cheio com todas as informações do candle do diário&lt;/td&gt;
-&lt;td&gt;ler força de barras e outras leituras&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;d1&lt;/td&gt;
-&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v ch&lt;/td&gt;
-&lt;td&gt;gráfico de máximas e mínimas do diário&lt;/td&gt;
-&lt;td&gt;ler canais&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;d1r&lt;/td&gt;
-&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v r …&lt;/ticker&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Atalho&lt;/th&gt;
-&lt;th&gt;Comando&lt;/th&gt;
-&lt;th&gt;Descrição&lt;/th&gt;
-&lt;th&gt;Indicado para&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;dd1&lt;/td&gt;
-&lt;td&gt;mt bars &lt;ticker&gt; -p daily&lt;/td&gt;
-&lt;td&gt;gráfico cheio com todas as informações do candle do diário&lt;/td&gt;
-&lt;td&gt;ler força de barras e outras leituras&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;d1&lt;/td&gt;
-&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v ch&lt;/td&gt;
-&lt;td&gt;gráfico de máximas e mínimas do diário&lt;/td&gt;
-&lt;td&gt;ler canais&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;d1r&lt;/td&gt;
-&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v r&lt;/td&gt;
-&lt;td&gt;gráfico de ranges do diário&lt;/td&gt;
-&lt;td&gt;identificar rompimentos ou clímax&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;d1o&lt;/td&gt;
-&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v var&lt;/td&gt;
-&lt;td&gt;gráfico com as oscilações percentuais fechamento contra fechamento do diário&lt;/td&gt;
-&lt;td&gt;ler somente as variações percentuais&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;d1c&lt;/td&gt;
-&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v c&lt;/td&gt;
-&lt;td&gt;gráfico com os fechamentos do diário&lt;/td&gt;
-&lt;td&gt;ler somente os fechamentos como no gráfico de linhas&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;d1v&lt;/td&gt;
-&lt;td&gt;mt bars &lt;ticker&gt; -p daily -v vol&lt;/td&gt;
-&lt;td&gt;gráfico com os volumes de negociação em ticks  do diário&lt;/td&gt;
-&lt;td&gt;ler somente o volume de negócios&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Para os demais tempos gráficos substitua o d1:  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;mn1 para mensal (monthly)&lt;/li&gt;
-&lt;li&gt;w1 para semanal (weekly)&lt;/li&gt;
-&lt;li&gt;h4 para 4 horas&lt;/li&gt;
-&lt;li&gt;h1 para 1 hora&lt;/li&gt;
-&lt;li&gt;m15 para 15min&lt;/li&gt;
-&lt;li&gt;m5 para 5min&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Os atalhos para variação percentual, volume e fechamento estão disponíveis apenas a partir do diário&lt;/p&gt;</content><category term="mtcli"></category><category term="mtcli"></category><category term="atalhos de comandos"></category><category term="workspace"></category></entry><entry><title>Marcações</title><link href="https://vfranca.github.io/marcacoes.html" rel="alternate"></link><published>2021-10-17T00:00:00-03:00</published><updated>2024-04-15T00:00:00-03:00</updated><author><name>Valmir França</name></author><id>tag:vfranca.github.io,2021-10-17:/marcacoes.html</id><summary type="html">&lt;p&gt;As marcações são anotações que podem ser gravadas no prompt de comandos.&lt;br&gt;
-exemplos: &lt;br&gt;
-tl 116040 atribui à marcaçã TL o valor 116040 
-digitando apenas tl será exibido o valor salvo de 116040
-Esse recurso é muito útil para marcar os preços de estudos Os grafistas videntes tem os objetos para …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As marcações são anotações que podem ser gravadas no prompt de comandos.&lt;br&gt;
-exemplos: &lt;br&gt;
-tl 116040 atribui à marcaçã TL o valor 116040 
-digitando apenas tl será exibido o valor salvo de 116040
-Esse recurso é muito útil para marcar os preços de estudos Os grafistas videntes tem os objetos para colocar em seus gráficos que são linhas marcando regiões e preços importantes.&lt;br&gt;
-As marcações são um recurso que procura se equiparar para o deficiente visual   &lt;/p&gt;
-&lt;p&gt;Marcações disponíveis:
-* TL - trend line
-* TCL - trend channel line
-* H - high
-* L - low
-* PK - pullback
-* HOY - high of yesterday
-* LOY -- low of yesterday
-* COY - close of yesterday
-* OOD - open of day&lt;/p&gt;
-&lt;p&gt;Os marcadores não está ainda embutido no mtcli e estão disponíveis apenas na pasta mtcli que pode ser baixada no link abaixo&lt;/p&gt;</content><category term="mtcli"></category><category term="mtcli"></category><category term="marcações"></category><category term="workspace"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog mtcli - mtcli</title><link href="https://vfranca.github.io/" rel="alternate"></link><link href="https://vfranca.github.io/feeds/mtcli.atom.xml" rel="self"></link><id>https://vfranca.github.io/</id><updated>2025-09-10T00:00:00-03:00</updated><entry><title>Editando Configurações com `mt conf` no MTCLI</title><link href="https://vfranca.github.io/mtcli-conf.html" rel="alternate"></link><published>2025-09-10T00:00:00-03:00</published><updated>2025-09-10T00:00:00-03:00</updated><author><name>Valmir França</name></author><id>tag:vfranca.github.io,2025-09-10:/mtcli-conf.html</id><summary type="html">&lt;p&gt;Aprenda a gerenciar suas configurações no MTCLI com o comando &lt;code&gt;mt conf&lt;/code&gt;, de forma simples e eficiente.&lt;/p&gt;</summary><content type="html">&lt;p&gt;O MTCLI permite gerenciar o arquivo &lt;code&gt;mtcli.ini&lt;/code&gt; diretamente pela linha de comando com o subcomando &lt;code&gt;conf&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;O que é &lt;code&gt;mtcli.ini&lt;/code&gt;?&lt;/p&gt;
+&lt;p&gt;É o arquivo onde ficam armazenadas configurações que o MTCLI utiliza, como timeframe, número de dígitos, etc. Ele deve estar na mesma pasta onde o comando é executado.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Usando &lt;code&gt;mt conf&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;Ver todas as configurações:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--list
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Obter o valor de uma configuração:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--get&lt;span class="w"&gt; &lt;/span&gt;CHAVE
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Definir/alterar o valor de uma configuração:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--set&lt;span class="w"&gt; &lt;/span&gt;CHAVE&lt;span class="w"&gt; &lt;/span&gt;VALOR
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Restaurar as configurações padrão:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--reset
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;Exemplo:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--set&lt;span class="w"&gt; &lt;/span&gt;period&lt;span class="w"&gt; &lt;/span&gt;D1
+mt&lt;span class="w"&gt; &lt;/span&gt;conf&lt;span class="w"&gt; &lt;/span&gt;--get&lt;span class="w"&gt; &lt;/span&gt;period
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;Dica&lt;/h2&gt;
+&lt;p&gt;Evite editar o arquivo &lt;code&gt;mtcli.ini&lt;/code&gt; manualmente. O comando &lt;code&gt;mt conf&lt;/code&gt; valida e organiza tudo para você.  &lt;/p&gt;</content><category term="mtcli"></category><category term="mtcli"></category><category term="config"></category><category term="cli"></category></entry></feed>

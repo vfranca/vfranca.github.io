@@ -1,24 +1,22 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-
-# This file is only used if you use `make publish` or
-# explicitly specify it as your config file.
+from __future__ import unicode_literals
 
 import os
 import sys
 sys.path.append(os.curdir)
+
 from pelicanconf import *
 
-# If your site is available via HTTPS, make sure SITEURL begins with https://
+# URL do site em produção
 SITEURL = 'https://vfranca.github.io'
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 
-# FEED_ALL_ATOM = 'feeds/all.atom.xml'
+# Feeds para produção
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
+# Limpa a saída antes de gerar novamente
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
-
-DISQUS_SITENAME = "price-action-para-cegos"
-#GOOGLE_ANALYTICS = ""
+# Recursos extras (opcionais)
+GOOGLE_ANALYTICS = 'UA-XXXXXXX-X'
+DISQUS_SITENAME = 'seudisqus'
